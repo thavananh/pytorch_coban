@@ -67,3 +67,26 @@ x_3_stacked = torch.stack([x_3, x_3], dim=2)
 print("\nDim = 2: \n", x_3_stacked, x_3_stacked.shape)
 x_3_stacked = torch.stack([x_3, x_3], dim=3)
 print("\nDim = 3: \n", x_3_stacked, x_3_stacked.shape)
+
+#Squeeze means add a 1 dimension to a tensor
+#Unsqueeze means remove a 1 dimension from a tensor
+
+x_4 = torch.randint(size=(10,), low=0, high=100, dtype=torch.int32)
+print(x_4, x_4.shape)
+
+x_4_reshaped = x_4.reshape(1, 10)
+print(x_4_reshaped, x_4_reshaped.shape)
+print(x_4_reshaped.squeeze(), x_4_reshaped.squeeze().shape)
+print(x_4_reshaped.unsqueeze(dim=0), x_4_reshaped.unsqueeze(dim=0).shape)
+print('\n')
+print(x_3.unsqueeze(dim=0), x_3.unsqueeze(dim=0).shape)
+print(x_3.unsqueeze(dim=1), x_3.unsqueeze(dim=1).shape)
+print(x_3.unsqueeze(dim=2), x_3.unsqueeze(dim=2).shape)
+print(x_3.unsqueeze(dim=3), x_3.unsqueeze(dim=3).shape)
+print('\n')
+print(x_3.squeeze(), x_3.squeeze().shape)
+
+x_4 = torch.rand(size=(224, 224, 3), dtype=torch.float32)
+print(x_4.shape)
+print(x_4.permute(2, 0, 1).shape)
+print(x_4.permute(2, 0, 1))
