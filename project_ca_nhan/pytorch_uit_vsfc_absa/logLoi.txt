@@ -1,0 +1,465 @@
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6701-6800)_20241027.csv'] with expected ID range 6701 - 6800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6801-6900)_20241027.csv'] with expected ID range 6801 - 6900
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 45 
+Checking file: ['data-17-11-2024/all/formattedCsv_4201-4300_20241026.csv'] with expected ID range 4201 - 4300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 10701-10800_20241109.csv'] with expected ID range 10701 - 10800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 401-500_20241017.csv'] with expected ID range 401 - 500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(3001-3100)_20241015.csv'] with expected ID range 3001 - 3100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 14001-14100_20241103.csv'] with expected ID range 14001 - 14100
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 88 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 129 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9601-9700_20241107.csv'] with expected ID range 9601 - 9700
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 21 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 10701-10800_20241030.csv'] with expected ID range 10701 - 10800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_12401-12500_20241110.csv'] with expected ID range 12401 - 12500
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 98 
+Checking file: ['data-17-11-2024/all/formattedCsv_1501-1600_20241016.csv'] with expected ID range 1501 - 1600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9701-9800_20241107.csv'] with expected ID range 9701 - 9800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9201-9300_20241103.csv'] with expected ID range 9201 - 9300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_4601-4700_20241028.csv'] with expected ID range 4601 - 4700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2201-2300 (lần 2)_20241115.csv'] with expected ID range 2201 - 2300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 6201-6300_20241027.csv'] with expected ID range 6201 - 6300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13401-13500)_2024119.csv'] with expected ID range 13401 - 13500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_9001-9100_20241110.csv'] with expected ID range 9001 - 9100
+File có lỗi
+Có 4 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 2 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 3 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 66 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 83 
+Checking file: ['data-17-11-2024/all/formattedCsv_701-800_20241015.csv'] with expected ID range 701 - 800
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 121 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 122 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 7201-7300_20241026.csv'] with expected ID range 7201 - 7300
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 4 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 11101-11200_20241109.csv'] with expected ID range 11101 - 11200
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 104 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6601-6700)_20241026.csv'] with expected ID range 6601 - 6700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2401-2500_20241018.csv'] with expected ID range 2401 - 2500
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 20 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2101-2200 (lần 2)_20241114.csv'] with expected ID range 2101 - 2200
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 110 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 111 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2701-2800_20241025.csv'] with expected ID range 2701 - 2800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 7601-7700_20241024.csv'] with expected ID range 7601 - 7700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 15701-15800_20241109.csv'] with expected ID range 15701 - 15800
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 53 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(2801-2900)_20241013.csv'] with expected ID range 2801 - 2900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13301-13400)_2024119.csv'] with expected ID range 13301 - 13400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 5801-5900_20241101.csv'] with expected ID range 5801 - 5900
+File có lỗi
+Có 5 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 8 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 9 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 123 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 124 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 135 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 12601-12700_20241108.csv'] with expected ID range 12601 - 12700
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 67 
+Checking file: ['data-17-11-2024/all/formattedCsv_7801-7900_20241101.csv'] with expected ID range 7801 - 7900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6501-6600)_20241025.csv'] with expected ID range 6501 - 6600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_4801-4900_20241030 .csv'] with expected ID range 4801 - 4900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 12701-12800_20241108.csv'] with expected ID range 12701 - 12800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_4901-5200_20241022.csv'] with expected ID range 4901 - 5200
+File có lỗi
+Có 3 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 116 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 288 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 289 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 12901-13000_20241110.csv'] with expected ID range 12901 - 13000
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 144 
+Checking file: ['data-17-11-2024/all/formattedCsv_5401-5500_20241023.csv'] with expected ID range 5401 - 5500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_14501-14700_20241110.csv'] with expected ID range 14501 - 14700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_15001-15100_20241110.csv'] with expected ID range 15001 - 15100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 11001-11100_20241109.csv'] with expected ID range 11001 - 11100
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 104 
+Checking file: ['data-17-11-2024/all/formattedCsv_7701-7800_20241031.csv'] with expected ID range 7701 - 7800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_4701-4800_20241029.csv'] with expected ID range 4701 - 4800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13901-14000)_2024119.csv'] with expected ID range 13901 - 14000
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 27 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 28 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(10001-10100)_2024111.csv'] with expected ID range 10001 - 10100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6301-6400)_20241020.csv'] with expected ID range 6301 - 6400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 5901-6000_20241103.csv'] with expected ID range 5901 - 6000
+File có lỗi
+Có 3 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 38 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 39 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 40 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(9801-9900)_2024111.csv'] with expected ID range 9801 - 9900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_2001-2100_20241019.csv'] with expected ID range 2001 - 2100
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 99 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 201-300_20241015_.csv'] with expected ID range 201 - 300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8801-8900_20241110.csv'] with expected ID range 8801 - 8900
+File có lỗi
+Có 3 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 38 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 39 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 62 
+Checking file: ['data-17-11-2024/all/formattedCsv_11201-11900_20241110.csv'] with expected ID range 11201 - 11900
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 823 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 824 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(9901-10000)_2024111.csv'] with expected ID range 9901 - 10000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2501-2600_20241019.csv'] with expected ID range 2501 - 2600
+File có lỗi
+Có 6 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 133 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 134 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 135 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 166 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 167 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 168 
+Checking file: ['data-17-11-2024/all/formattedCsv_8501-8600_20241110.csv'] with expected ID range 8501 - 8600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 12801-12900_20241108.csv'] with expected ID range 12801 - 12900
+File có lỗi
+Có 8 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 16 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 17 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 78 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 79 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 80 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 81 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 82 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 83 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 10601-10700_20241030.csv'] with expected ID range 10601 - 10700
+File có lỗi
+Có 4 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 33 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 34 
+Câu có 3  cột (mong đợi 7 cột) tại dòng 111 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 112 
+Checking file: ['data-17-11-2024/all/formattedCsv_8601-8700_20241110.csv'] with expected ID range 8601 - 8700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(2901-3000)_20241014.csv'] with expected ID range 2901 - 3000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(10201-10300)_2024113.csv'] with expected ID range 10201 - 10300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_149010-14500_20241111.csv'] with expected ID range 149010 - 14500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 7401-7500_20241109.csv'] with expected ID range 7401 - 7500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_1701-2000_20241018.csv'] with expected ID range 1701 - 2000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8701-8800_20241110.csv'] with expected ID range 8701 - 8800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13501-13600)_2024119.csv'] with expected ID range 13501 - 13600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_15301-15400_20241110.csv'] with expected ID range 15301 - 15400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 6101-6200_20241103.csv'] with expected ID range 6101 - 6200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 301-400_20241016_.csv'] with expected ID range 301 - 400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_11901-12000_20241110.csv'] with expected ID range 11901 - 12000
+File có lỗi
+Có 4 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 15 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 16 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 80 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 81 
+Checking file: ['data-17-11-2024/all/formattedCsv_4501-4600_20241028.csv'] with expected ID range 4501 - 4600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 7301-7400_20241027.csv'] with expected ID range 7301 - 7400
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 13 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 14 
+Checking file: ['data-17-11-2024/all/formattedCsv_1001-1100_20241110.csv'] with expected ID range 1001 - 1100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(10101-10200)_2024113.csv'] with expected ID range 10101 - 10200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_15101-15200_20241110.csv'] with expected ID range 15101 - 15200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_1301-1400_20241025.csv'] with expected ID range 1301 - 1400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_5501-5600_20241110.csv'] with expected ID range 5501 - 5600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8401-8500_20241110.csv'] with expected ID range 8401 - 8500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_15201-15300_20241110.csv'] with expected ID range 15201 - 15300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_15901-16000_20241110.csv'] with expected ID range 15901 - 16000
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 6 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 7 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 3700-3801_20241022.csv'] with expected ID range 3700 - 3801
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_12201-12300_20241110.csv'] with expected ID range 12201 - 12300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_901-1000_20241021.csv'] with expected ID range 901 - 1000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 3901-4000_20241022.csv'] with expected ID range 3901 - 4000
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 6 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 119 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13701-13800)_2024119.csv'] with expected ID range 13701 - 13800
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 13 
+Checking file: ['data-17-11-2024/all/formattedCsv_12501-12600_20241110.csv'] with expected ID range 12501 - 12600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_7901-8000_20241103.csv'] with expected ID range 7901 - 8000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 101-200_20241015.csv'] with expected ID range 101 - 200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 15801-15900_20241109.csv'] with expected ID range 15801 - 15900
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 88 
+Checking file: ['data-17-11-2024/all/formattedCsv_14801-14900_20241111.csv'] with expected ID range 14801 - 14900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_4401-4500_20241027.csv'] with expected ID range 4401 - 4500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 5601-5700_20241030.csv'] with expected ID range 5601 - 5700
+File có lỗi
+Có 6 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 0 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 1 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 2 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 3 
+Câu có 3  cột (mong đợi 7 cột) tại dòng 55 
+Câu có 3  cột (mong đợi 7 cột) tại dòng 103 
+Checking file: ['data-17-11-2024/all/formattedCsv_1101-1200_20241020.csv'] with expected ID range 1101 - 1200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_16101-16175_20241110.csv'] with expected ID range 16101 - 16175
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 3601-3700_20241026.csv'] with expected ID range 3601 - 3700
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 103 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 104 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 7501-7600_20241024.csv'] with expected ID range 7501 - 7600
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 21 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 10801-10900_20241109.csv'] with expected ID range 10801 - 10900
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 82 
+Checking file: ['data-17-11-2024/all/formattedCsv_12101-12200_20241110.csv'] with expected ID range 12101 - 12200
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 67 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(3401-3500)_20241020.csv'] with expected ID range 3401 - 3500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2601-2700_20241024.csv'] with expected ID range 2601 - 2700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13801-13900)_2024119.csv'] with expected ID range 13801 - 13900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 6001-6100_20241103.csv'] with expected ID range 6001 - 6100
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 100 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 15601-15700_20241109.csv'] with expected ID range 15601 - 15700
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 4 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 5 
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 14301-14400_20241109.csv'] with expected ID range 14301 - 14400
+File có lỗi
+Có 5 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 32 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 33 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 44 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 45 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 77 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 13001-13100_20241110.csv'] with expected ID range 13001 - 13100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_5301-5400_20241023.csv'] with expected ID range 5301 - 5400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8101-8200_20241106.csv'] with expected ID range 8101 - 8200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 1-100_13102024.csv'] with expected ID range 1 - 100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 4001-4100_20241023.csv'] with expected ID range 4001 - 4100
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 82 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 128 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(10301-10400)_2024115.csv'] with expected ID range 10301 - 10400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 14201-14300_20241109.csv'] with expected ID range 14201 - 14300
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 15 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 13101-13200_20241110.csv'] with expected ID range 13101 - 13200
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 35 
+Câu có 3  cột (mong đợi 7 cột) tại dòng 94 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(3101-3200)_20241016.csv'] with expected ID range 3101 - 3200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 601-700_20241018.csv'] with expected ID range 601 - 700
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 41 
+Checking file: ['data-17-11-2024/all/formattedCsv_1401-1500_20241016.csv'] with expected ID range 1401 - 1500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6901-7000)_20241031.csv'] with expected ID range 6901 - 7000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 7101-7200_20241024.csv'] with expected ID range 7101 - 7200
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 30 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 31 
+Checking file: ['data-17-11-2024/all/formattedCsv_8001-8100_20241103.csv'] with expected ID range 8001 - 8100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(3301-3400)_20241019.csv'] with expected ID range 3301 - 3400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 5701-5800_20241031 (1).csv'] with expected ID range 5701 - 5800
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 131 
+Câu có 3  cột (mong đợi 7 cột) tại dòng 140 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9501-9600_20241106.csv'] with expected ID range 9501 - 9600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 14401-14500_20241109.csv'] with expected ID range 14401 - 14500
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 30 
+Câu có 3  cột (mong đợi 7 cột) tại dòng 84 
+Checking file: ['data-17-11-2024/all/formattedCsv_4301-4400_20241027.csv'] with expected ID range 4301 - 4400
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 52 
+Checking file: ['data-17-11-2024/all/formattedCsv_16001-16100_20241110.csv'] with expected ID range 16001 - 16100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(10401-10500)_2024116.csv'] with expected ID range 10401 - 10500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9401-9500_20241105.csv'] with expected ID range 9401 - 9500
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 11 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 12 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9101-9200_20241103.csv'] with expected ID range 9101 - 9200
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8301-8400_20241110.csv'] with expected ID range 8301 - 8400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_1201-1300_20241025.csv'] with expected ID range 1201 - 1300
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 95 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 96 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(3201-3300)_20241018.csv'] with expected ID range 3201 - 3300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 13201-13300_20241110.csv'] with expected ID range 13201 - 13300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 3501-3600_20241019.csv'] with expected ID range 3501 - 3600
+File có lỗi
+Có 2 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 59 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 60 
+Checking file: ['data-17-11-2024/all/formattedCsv_15401-15500_20241110.csv'] with expected ID range 15401 - 15500
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_1601-1700_20241016.csv'] with expected ID range 1601 - 1700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_14701-14800_20241111.csv'] with expected ID range 14701 - 14800
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 501-600_20241018.csv'] with expected ID range 501 - 600
+File có lỗi
+Có 6 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 99 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 100 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 101 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 105 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 110 
+Câu có 5  cột (mong đợi 7 cột) tại dòng 111 
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 9301-9400_20241104.csv'] with expected ID range 9301 - 9400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8201-8300_20241106.csv'] with expected ID range 8201 - 8300
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_sang 2301-2400 (lần 3)_20241116.csv'] with expected ID range 2301 - 2400
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 3  cột (mong đợi 7 cột) tại dòng 134 
+Checking file: ['data-17-11-2024/all/formattedCsv_801-900_20241110.csv'] with expected ID range 801 - 900
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(13601-13700)_2024117.csv'] with expected ID range 13601 - 13700
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_12001-12100_20241110.csv'] with expected ID range 12001 - 12100
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_8901-9000_20241110.csv'] with expected ID range 8901 - 9000
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_5201-5300_20241023.csv'] with expected ID range 5201 - 5300
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 110 
+Checking file: ['data-17-11-2024/all/formattedCsv_hương(6401-6500-)_20241023.csv'] with expected ID range 6401 - 6500
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 19 
+Checking file: ['data-17-11-2024/all/formattedCsv_12301-12400_20241110.csv'] with expected ID range 12301 - 12400
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 10501-10600_20241026.csv'] with expected ID range 10501 - 10600
+Không có dòng nào bị lệch cột.
+Checking file: ['data-17-11-2024/all/formattedCsv_duy 14101-14200_20241109.csv'] with expected ID range 14101 - 14200
+File có lỗi
+Có 1 dòng bị lệch cột.
+Câu có 5  cột (mong đợi 7 cột) tại dòng 110 
