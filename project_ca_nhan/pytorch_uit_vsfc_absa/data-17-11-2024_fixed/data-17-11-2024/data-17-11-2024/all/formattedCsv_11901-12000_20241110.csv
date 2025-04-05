@@ -1,0 +1,112 @@
+﻿id,Review,Sentence Component,aspect_text,aspect,sentiment_text,sentiment
+1,cần điều chỉnh số lượng sinh viên hợp lý trong lớp học bởi trong lớp khá đông .,cần điều chỉnh số lượng sinh viên hợp lý trong lớp học bởi trong lớp khá đông,điều chỉnh số lượng sinh viên,Organization and management,cần điều chỉnh,Neutral
+2,đi muộn .,đi muộn,đi muộn,Organization and management,đi muộn,Negative
+3,"giảng viên nhiệt tình , cho nhiều bài tập .",giảng viên nhiệt tình,nhiệt tình,Support from lecturers,nhiệt tình,Positive
+3,"giảng viên nhiệt tình , cho nhiều bài tập .",cho nhiều bài tập,bài tập,Workload,cho nhiều,Positive
+4,cần up nhiều tài liệu hơn lên course .,cần up nhiều tài liệu hơn lên course,tài liệu,Course information,cần up nhiều,Neutral
+5,các bài thực hành có liên quan tới nghiệp vụ .,các bài thực hành có liên quan tới nghiệp vụ,các bài thực hành,Course information, có liên quan,Positive
+6,thầy giảng hay dễ hiểu .,thầy giảng hay dễ hiểu,giảng,Teaching quality,hay dễ hiểu,Positive
+7,cô vô cùng nhiệt tình và tận tâm .,cô vô cùng nhiệt tình và tận tâm,nhiệt tình và tận tâm,Support from lecturers,nhiệt tình và tận tâm,Positive
+8,"thầy giảng lý thuyết khá chung chung , trừu tượng , khó áp dụng kiến thức .","thầy giảng lý thuyết khá chung chung , trừu tượng , khó áp dụng kiến thức",giảng ,Teaching quality,"chung chung , trừu tượng , khó áp dụng",Negative
+9,em không hiểu .,em không hiểu,hiểu,Teaching quality, không hiểu,Negative
+10,giảng viên dạy còn tương đối nhanh và hơi khó hiểu .,giảng viên dạy còn tương đối nhanh và hơi khó hiểu,dạy,Teaching quality,nhanh và hơi khó hiểu,Negative
+11,"giảng viên tận tâm , nhiệt tình , giảng dạy rất chi tiết nội dung bài học .","giảng viên tận tâm , nhiệt tình","giảng viên tận tâm , nhiệt tình",Support from lecturers,"tận tâm , nhiệt tình",Positive
+11,"giảng viên tận tâm , nhiệt tình , giảng dạy rất chi tiết nội dung bài học .",giảng dạy rất chi tiết nội dung bài học,giảng dạy,Teaching quality, chi tiết,Positive
+12,"giảng viên năng nổ , nhiệt tình , vui tính .","giảng viên năng nổ , nhiệt tình , vui tính","năng nổ , nhiệt tình , vui tính",Support from lecturers,"năng nổ , nhiệt tình , vui tính",Positive
+13,cám ơn cô đã dạy lớp em .,cám ơn cô đã dạy lớp em,cám ơn,General review,cám ơn,Positive
+14,quan tâm và nhiệt tình .,quan tâm và nhiệt tình,quan tâm và nhiệt tình,Support from lecturers,quan tâm và nhiệt tình,Positive
+15,ngoài ra còn nhiều kiến thức ngoài .,ngoài ra còn nhiều kiến thức ngoài,kiến thức,Course information,còn nhiều kiến thức ngoài,Neutral
+16,thầy dạy khá chi tiết .,thầy dạy khá chi tiết,dạy,Teaching quality,khá chi tiết,Positive
+17,"đến gần cuối kỳ vẫn khá nhiều sinh viên không biết nên làm gì với đồ án , code kiểu gì mới đúng ý thầy .","đến gần cuối kỳ vẫn khá nhiều sinh viên không biết nên làm gì với đồ án , code kiểu gì mới đúng ý thầy",cuối kỳ,Test and evaluation,"không biết nên làm gì với đồ án , code kiểu gì mới đúng ý thầy",Negative
+18,"ngoài kiến thức trong sách , thầy còn chia sẻ những kinh nghiệm cho sinh viên về công việc , về lĩnh vực học tập .","ngoài kiến thức trong sách , thầy còn chia sẻ những kinh nghiệm cho sinh viên về công việc , về lĩnh vực học tập",chia sẻ,Support from lecturers,chia sẻ những kinh nghiệm,Positive
+19,"giảng viên dạy tận tâm , nhiệt tình .","giảng viên dạy tận tâm , nhiệt tình",dạy,Teaching quality,"tận tâm , nhiệt tình",Positive
+20,thầy nghỉ ' hơi ' nhiều .,thầy nghỉ ' hơi ' nhiều,nghỉ,Organization and management, ' hơi ' nhiều,Negative
+21,"slide thầy chuẩn bị thì không khác giáo viên khác là nhiêu , thầy sử dụng các ví dụ rất nhiều nhưng thật sự chưa lôi kéo được sinh viên về phía mình ( cho sinh viên hiểu được ) .","slide thầy chuẩn bị thì không khác giáo viên khác là nhiêu , thầy sử dụng các ví dụ rất nhiều nhưng thật sự chưa lôi kéo được sinh viên về phía mình ( cho sinh viên hiểu được )",slide thầy chuẩn bị,Course information,"không khác giáo viên khác là nhiêu , thầy sử dụng các ví dụ rất nhiều nhưng thật sự chưa lôi kéo được sinh viên về phía mình ( cho sinh viên hiểu được ",Negative
+22,sự kiên trì của giảng viên với lớp dù sinh viên có mặt khá ít .,sự kiên trì của giảng viên với lớp dù sinh viên có mặt khá ít,sự kiên trì,Support from lecturers,kiên trì của giảng viên với lớp dù sinh viên có mặt khá ít,Positive
+23,đó là ý kiến cá nhân của em về giảng viên môn anh văn 2 này .,đó là ý kiến cá nhân của em về giảng viên môn anh văn 2 này,ý kiến cá nhân,General review,ý kiến cá nhân,Neutral
+24,"cách dạy không phù hợp , khó hiểu gây chán nản , không có động lực học .","cách dạy không phù hợp , khó hiểu gây chán nản , không có động lực học",cách dạy,Teaching quality,"không phù hợp , khó hiểu gây chán nản , không có động lực học",Negative
+25,hướng dẫn đầy đủ .,hướng dẫn đầy đủ,hướng dẫn,Support from lecturers,đầy đủ,Positive
+26,chưa sâu về nội dung .,chưa sâu về nội dung,nội dung,Course information,chưa sâu,Negative
+27,thầy giảng dạy rất ân cần và quan tâm tới sinh viên .,thầy giảng dạy rất ân cần và quan tâm tới sinh viên,giảng dạy,Teaching quality,ân cần và quan tâm,Positive
+28,giảng dạy lý thuyết tốt .,giảng dạy lý thuyết tốt,giảng dạy lý thuyết,Teaching quality,tốt,Positive
+29,trình độ chuyên môn cao .,trình độ chuyên môn cao,trình độ chuyên môn,Teaching quality,cao,Positive
+30,sinh viên học lý thuyết nhưng thực hành không liên quan nhiều tới lý thuyết .,sinh viên học lý thuyết nhưng thực hành không liên quan nhiều tới lý thuyết, lý thuyết,Course information, không liên quan,Negative
+31,giảng viên nên đảm bảo giờ trên lớp và sử dụng hiệu quả tiết học .,giảng viên nên đảm bảo giờ trên lớp và sử dụng hiệu quả tiết học,giờ trên lớp và sử dụng hiệu quả tiết học,Organization and management,nên đảm bảo giờ trên lớp và sử dụng hiệu quả tiết học,Neutral
+32,cần thêm giáo trình do trường biên soạn .,cần thêm giáo trình do trường biên soạn,giáo trình,Course information,cần thêm,Neutral
+33,giúp sinh viên hoàn thiện các kỹ năng trong việc học tập .,giúp sinh viên hoàn thiện các kỹ năng trong việc học tập,giúp sinh viên,Support from lecturers,hoàn thiện,Positive
+34,"thầy wzjwz192 giảng bài dễ hiểu , cụ thể , chi tiết .","thầy wzjwz192 giảng bài dễ hiểu , cụ thể , chi tiết",giảng bài,Teaching quality,"dễ hiểu , cụ thể , chi tiết",Positive
+35,"không nên đánh giá tập trung vào một bài thi cuối kỳ duy nhất , chia thành nhiều phần doubledot 60% kiến thức ai doubledot trong đó có thể kiểm tra giấy như hiện nay bài tập lớn 40% một đồ án vận dụng trí tuệ nhân tạo ( ai ) bài thi cuối kỳ không đảm bảo đánh giá đúng chất lượng sinh viên doubledot đề thi cho những câu dễ , chỉ mất thời gian để trình bày hơn là thời gian suy nghĩ .","không nên đánh giá tập trung vào một bài thi cuối kỳ duy nhất , chia thành nhiều phần doubledot 60% kiến thức ai doubledot trong đó có thể kiểm tra giấy như hiện nay bài tập lớn 40% một đồ án vận dụng trí tuệ nhân tạo ( ai ) bài thi cuối kỳ không đảm bảo đánh giá đúng chất lượng sinh viên doubledot đề thi cho những câu dễ , chỉ mất thời gian để trình bày hơn là thời gian suy nghĩ",đánh giá tập trung,Test and evaluation,"không nên đánh giá tập trung vào một bài thi cuối kỳ duy nhất , chia thành nhiều phần doubledot 60% kiến thức ai doubledot trong đó có thể kiểm tra giấy như hiện nay bài tập lớn 40% một đồ án vận dụng trí tuệ nhân tạo ( ai ) bài thi cuối kỳ không đảm bảo đánh giá đúng chất lượng sinh viên doubledot đề thi cho những câu dễ , chỉ mất thời gian để trình bày hơn là thời gian suy nghĩ",Neutral
+36,"cô cho làm bài tập để thực tiễn lý thuyết rất nhiều và phù hơp , khiến chúng em hiểu ngay được nội dung của môn học .","cô cho làm bài tập để thực tiễn lý thuyết rất nhiều và phù hơp , khiến chúng em hiểu ngay được nội dung của môn học",bài tập,Workload," rất nhiều và phù hơp , khiến chúng em hiểu ngay được nội dung của môn học",Positive
+37,giữ vững nhiệt huyết với sinh viên .,giữ vững nhiệt huyết với sinh viên,giữ vững nhiệt huyết với sinh viên,Support from lecturers,giữ vững nhiệt huyết,Positive
+38,có demo trực tiếp .,có demo trực tiếp,có demo trực tiếp,Course information,có demo,Positive
+39,"dạy dễ hiểu , hài hước .","dạy dễ hiểu , hài hước",dạy,Teaching quality,"dễ hiểu , hài hước",Positive
+40,thầy giảng bài kỹ .,thầy giảng bài kỹ,giảng bài,Teaching quality,kỹ,Positive
+41,cách giảng dạy của cô rất hiệu quả .,cách giảng dạy của cô rất hiệu quả,cách giảng dạy,Teaching quality,hiệu quả,Positive
+42,cụ thể doubledot về việc hướng dẫn bài tập về nội dung đó .,cụ thể doubledot về việc hướng dẫn bài tập về nội dung đó,hướng dẫn,Support from lecturers,việc hướng dẫn,Neutral
+43,đề quá khó !,đề quá khó,đề,Test and evaluation,quá khó,Negative
+44,môn học tốt .,môn học tốt,môn học,Course information, tốt,Positive
+45,"giảng dạy chi tiết , nhiệt tình .","giảng dạy chi tiết , nhiệt tình",giảng dạy,Teaching quality,"chi tiết , nhiệt tình",Positive
+46,nên thêm nhiều kiến thức thực tế hơn nữa .,nên thêm nhiều kiến thức thực tế hơn nữa,kiến thức,Course information,nên thêm,Neutral
+47,có nhiệt huyết .,có nhiệt huyết,có nhiệt huyết,Teaching quality,nhiệt huyết,Positive
+48,"giảng viên cho bài tập hay , khó .","giảng viên cho bài tập hay , khó",bài tập,Workload,"hay , khó",Positive
+49,thầy cho thực hành làm mạch dễ tiếp thu kiến thức .,thầy cho thực hành làm mạch dễ tiếp thu kiến thức,cho thực hành,Teaching quality,dễ tiếp thu,Positive
+50,thầy nói tiếng khá khó nghe và không sử dụng micro nên em không thể hiểu toàn bộ những điều thầy nói .,thầy nói tiếng khá khó nghe và không sử dụng micro nên em không thể hiểu toàn bộ những điều thầy nói,nói,Teaching quality,khó nghe và không sử dụng micro,Negative
+51,"cô nhiệt tình , giảng dạy hay , dễ hiểu cho sinh viên .",cô nhiệt tình,nhiệt tình,Support from lecturers,nhiệt tình,Positive
+51,"cô nhiệt tình , giảng dạy hay , dễ hiểu cho sinh viên .","giảng dạy hay , dễ hiểu cho sinh viên",giảng dạy,Teaching quality,"hay , dễ hiểu",Positive
+52,thầy rất nhiệt tình .,thầy rất nhiệt tình,nhiệt tình,Support from lecturers,nhiệt tình,Positive
+53,"đôi lúc cô có kể vài câu chuyện hay liên quan đến bài học , hầu hết các tiết học cô luôn mỉm cười nên khi học cảm thấy thoải mái .","đôi lúc cô có kể vài câu chuyện hay liên quan đến bài học , hầu hết các tiết học cô luôn mỉm cười nên khi học cảm thấy thoải mái",kể vài câu chuyện,Teaching quality,"hay liên quan đến bài học , hầu hết các tiết học cô luôn mỉm cười nên khi học cảm thấy thoải mái",Positive
+54,không nhiệt tình .,không nhiệt tình,nhiệt tình,Support from lecturers,không nhiệt tình,Negative
+55,cách tính điểm cộng của giáo viên có điểm quá trình .,cách tính điểm cộng của giáo viên có điểm quá trình, tính điểm,Test and evaluation,có,Neutral
+56,"em nghĩ thầy dạy hơi chậm so với lớp khác nhưng mà thầy dạy đảm bảo chất lượng , rèn được cho bọn em khả năng làm việc nhóm , thuyết trình , cách trả lời câu hỏi .","em nghĩ thầy dạy hơi chậm so với lớp khác nhưng mà thầy dạy đảm bảo chất lượng , rèn được cho bọn em khả năng làm việc nhóm , thuyết trình , cách trả lời câu hỏi",dạy,Teaching quality,"hơi chậm so với lớp khác nhưng mà thầy dạy đảm bảo chất lượng , rèn được cho bọn em khả năng làm việc nhóm , thuyết trình , cách trả lời câu hỏi",Positive
+57,"cô dạy hay , đưa thực tế áp dụng vào bài giảng , dễ hiểu .","cô dạy hay , đưa thực tế áp dụng vào bài giảng , dễ hiểu",dạy,Teaching quality,"hay , đưa thực tế áp dụng vào bài giảng , dễ hiểu",Positive
+58,nhiều bài thuyết trình .,nhiều bài thuyết trình,thuyết trình,Test and evaluation,nhiều,Neutral
+59,"nhiệt tình , vui vẻ , quan tâm đến sinh viên .","nhiệt tình , vui vẻ , quan tâm đến sinh viên","nhiệt tình , vui vẻ , quan tâm",Support from lecturers,"nhiệt tình , vui vẻ , quan tâm",Positive
+60,"giọng nói của thầy truyền cảm , không gây cảm giác buồn ngủ .","giọng nói của thầy truyền cảm , không gây cảm giác buồn ngủ",giọng nói,Teaching quality,"truyền cảm , không gây cảm giác buồn ngủ",Positive
+61,rất có tâm huyết và thương sinh viên colonsmile .,rất có tâm huyết và thương sinh viên colonsmile,rất có tâm huyết và thương sinh viên,Support from lecturers,tâm huyết và thương,Positive
+62,"giáo viên thường xuyên đi muộn , không đúng giờ giấc , thường xuyên bỏ dạy mà không thông báo cho phòng đào tạo .","giáo viên thường xuyên đi muộn , không đúng giờ giấc , thường xuyên bỏ dạy mà không thông báo cho phòng đào tạo",thường xuyên đi muộn,Organization and management,"đi muộn , không đúng giờ giấc , thường xuyên bỏ dạy mà không thông báo",Negative
+63,"cô rất có tâm , tận tình , nghiêm túc .","cô rất có tâm , tận tình , nghiêm túc","có tâm , tận tình , nghiêm túc",Teaching quality,"có tâm , tận tình , nghiêm túc",Positive
+64,thầy dậy rất nhiệt tình .,thầy dậy rất nhiệt tình,dậy,Teaching quality,nhiệt tình,Positive
+65,không ý kiến .,không ý kiến,không ý kiến,General review,không ý kiến,Neutral
+66,tạo bầu không khí vui vẻ .,tạo bầu không khí vui vẻ,không khí,Learning environment,vui vẻ,Positive
+67,hơi nhanh nhưng em vẫn theo kịp được .,hơi nhanh nhưng em vẫn theo kịp được,hơi nhanh,Teaching quality,vẫn theo kịp,Neutral
+68,"máy tính thực hành quá tệ , cần được trang bị mới hơn .",máy tính thực hành quá tệ,máy tính thực hành,Learning environment,quá tệ,Negative
+68,"máy tính thực hành quá tệ , cần được trang bị mới hơn .",cần được trang bị mới hơn,trang bị mới,Learning environment,cần,Neutral
+69,"mang tính chê trách sinh viên về chuyên môn , làm cho tâm lý sinh viên đi xuống , không có hứng thú trong học tập .","mang tính chê trách sinh viên về chuyên môn , làm cho tâm lý sinh viên đi xuống , không có hứng thú trong học tập",mang tính chê trách sinh viên về chuyên môn,Teaching quality,"chê trách sinh viên về chuyên môn , làm cho tâm lý sinh viên đi xuống , không có hứng thú trong học tập",Negative
+70,"nội dung giảng dạy quá sơ sài , giảng viên không quan tâm tới lớp .",nội dung giảng dạy quá sơ sài,nội dung giảng dạy,Course information,sơ sài,Negative
+70,"nội dung giảng dạy quá sơ sài , giảng viên không quan tâm tới lớp .",giảng viên không quan tâm tới lớp,quan tâm,Support from lecturers,không quan tâm,Negative
+71,"cô dạy tận tâm , nhiệt tình , giúp đỡ sinh viên .",cô dạy tận tâm,dạy,Teaching quality,tận tâm,Positive
+71,"cô dạy tận tâm , nhiệt tình , giúp đỡ sinh viên .","nhiệt tình , giúp đỡ sinh viên","nhiệt tình , giúp đỡ",Support from lecturers,"nhiệt tình , giúp đỡ",Positive
+72,nhiệt tình giải đáp thắc mắc .,nhiệt tình giải đáp thắc mắc,giải đáp thắc mắc,Support from lecturers,nhiệt tình,Positive
+73,cô rất xinh .,cô rất xinh,cô rất xinh,General review,xinh,Positive
+74,"nên giảm thời gian tiết học môn anh văn , vì thời gian học một buổi dài sẽ ít hiệu quả .","nên giảm thời gian tiết học môn anh văn , vì thời gian học một buổi dài sẽ ít hiệu quả",thời gian tiết học,Course information,nên,Neutral
+75,thầy nhiệt tình trong công tác giảng dạy .,thầy nhiệt tình trong công tác giảng dạy, giảng dạy,Teaching quality,nhiệt tình,Positive
+76,"đề cuối kỳ ra khá dở , trong khi java có nhiều cái hay thì không ra .","đề cuối kỳ ra khá dở , trong khi java có nhiều cái hay thì không ra",đề cuối kỳ,Test and evaluation,khá dở,Negative
+76,"đề cuối kỳ ra khá dở , trong khi java có nhiều cái hay thì không ra .","đề cuối kỳ ra khá dở , trong khi java có nhiều cái hay thì không ra",đề cuối kỳ,Test and evaluation,không ra,Negative
+77,"giảng dạy lý thuyết dễ hiểu , ví dụ hợp lý .","giảng dạy lý thuyết dễ hiểu , ví dụ hợp lý",giảng dạy,Teaching quality,"dễ hiểu , ví dụ hợp lý",Positive
+78,khả năng truyền đạt của giảng viên chưa tốt .,khả năng truyền đạt của giảng viên chưa tốt,truyền đạt,Teaching quality,chưa tốt,Negative
+79,"tận tình , tâm huyết .","tận tình , tâm huyết","tận tình , tâm huyết",Support from lecturers,"tận tình , tâm huyết",Positive
+80,thầy wzjwz13 dạy rất chuẩn .,thầy wzjwz13 dạy rất chuẩn,dạy,Teaching quality,rất chuẩn,Positive
+81,em không hiểu và thầy giải thích em cũng không hiểu thầy đang nói gì .,em không hiểu và thầy giải thích em cũng không hiểu thầy đang nói gì,giải thích ,Teaching quality,không hiểu,Negative
+82,đừng nghĩ mọi thứ tự em đã biết trước hết colonsmile .,đừng nghĩ mọi thứ tự em đã biết trước hết colonsmile,đừng nghĩ mọi thứ tự em đã biết trước hết colonsmile,General review,đừng nghĩ,Neutral
+83,nên thay đổi hình thức kiểm tra .,nên thay đổi hình thức kiểm tra,hình thức kiểm tra,Test and evaluation,nên thay đổi,Neutral
+84,thầy wzjwz210 rất nhiệt huyết và vui tính .,thầy wzjwz210 rất nhiệt huyết và vui tính,nhiệt huyết và vui tính,Support from lecturers,nhiệt huyết và vui tính,Positive
+85,bài tập đa dạng giúp sinh viên hiểu rõ bài học hơn .,bài tập đa dạng giúp sinh viên hiểu rõ bài học hơn,bài tập,Workload,đa dạng giúp sinh viên hiểu rõ,Positive
+86,"hướng dẫn chi tiết , rõ ràng .","hướng dẫn chi tiết , rõ ràng",hướng dẫn,Support from lecturers,"chi tiết , rõ ràng",Positive
+87,còn nhiều thiếu sót nhỏ .,còn nhiều thiếu sót nhỏ,còn nhiều thiếu sót nhỏ,General review,thiếu sót,Negative
+88,thầy rất vui vẻ .,thầy rất vui vẻ,thầy rất vui vẻ,Support from lecturers,vui vẻ,Positive
+89,"giảng viên truyền đạt kiến thức tốt , dễ hiểu .","giảng viên truyền đạt kiến thức tốt , dễ hiểu",truyền đạt,Teaching quality,"tốt , dễ hiểu",Positive
+90,"cô tận tâm , có theo dõi sức học tập của từng bạn .","cô tận tâm , có theo dõi sức học tập của từng bạn","tận tâm , có theo dõi sức học tập của từng bạn",Support from lecturers,"tận tâm , có theo dõi",Positive
+91,nên tăng bài tập và thời gian thực hành .,nên tăng bài tập,bài tập,Workload,nên tăng,Neutral
+91,nên tăng bài tập và thời gian thực hành .,nên tăng bài tập và thời gian thực hành,thời gian thực hành,Organization and management,nên tăng,Neutral
+92,"giảng viên nhiệt tình , phương pháp giảng lôi cuốn .",giảng viên nhiệt tình,nhiệt tình,Support from lecturers,nhiệt tình,Positive
+92,"giảng viên nhiệt tình , phương pháp giảng lôi cuốn .",phương pháp giảng lôi cuốn,giảng,Teaching quality,lôi cuốn,Positive
+93,"cô dạy rất nhiệt tình , rất quan tâm học sinh .","cô dạy rất nhiệt tình , rất quan tâm học sinh",dạy,Teaching quality,"nhiệt tình , rất quan tâm",Positive
+94,thầy cố gắng nên cho giải bài tập nhiều hơn .,thầy cố gắng nên cho giải bài tập nhiều hơn,giải bài tập,Workload,nên,Neutral
+95,"lớp thực hành hầu như không làm gì cả , mặc dù lúc đầu cô thực hành có dạy nhưng rất ít so với việc áp dụng vào thực hiện đồ án , càng về sau hầu như không dạy thêm được chút gì .","lớp thực hành hầu như không làm gì cả , mặc dù lúc đầu cô thực hành có dạy nhưng rất ít so với việc áp dụng vào thực hiện đồ án , càng về sau hầu như không dạy thêm được chút gì",lớp thực hành,Course information,"hầu như không làm gì cả , mặc dù lúc đầu cô thực hành có dạy nhưng rất ít so với việc áp dụng vào thực hiện đồ án , càng về sau hầu như không dạy thêm được chút gì",Negative
+96,"giảng viên không tương tác với sinh viên , bài giảng thiên về lý thuyết rất nhàm chán .",giảng viên không tương tác với sinh viên,không tương tác với sinh viên,Support from lecturers,không tương tác,Negative
+96,"giảng viên không tương tác với sinh viên , bài giảng thiên về lý thuyết rất nhàm chán .", bài giảng thiên về lý thuyết rất nhàm chán, bài giảng,Teaching quality,nhàm chán,Negative
+97,slide chi tiết .,slide chi tiết,slide,Course information,chi tiết,Positive
+98,"nhiệt tình , đôi khi dạy nhiều cái về thực tiễn rất hữu ích , gần gũi , nghiêm khắc .",nhiệt tình,nhiệt tình,Support from lecturers,nhiệt tình,Positive
+98,"nhiệt tình , đôi khi dạy nhiều cái về thực tiễn rất hữu ích , gần gũi , nghiêm khắc .","đôi khi dạy nhiều cái về thực tiễn rất hữu ích , gần gũi , nghiêm khắc",dạy,Teaching quality,"hữu ích , gần gũi , nghiêm khắc",Positive
+99,cần cung cấp hướng dẫn thực hành .,cần cung cấp hướng dẫn thực hành, hướng dẫn ,Support from lecturers,cần cung cấp,Neutral
+100,giáo viên hướng dẫn rất tận tình .,giáo viên hướng dẫn rất tận tình,hướng dẫn,Support from lecturers,tận tình,Positive
