@@ -12,7 +12,6 @@ print(tensor, tensor.device)
 tensor_on_gpu = tensor.to(device)
 print(tensor_on_gpu, tensor_on_gpu.device)
 
-# tensor_numpy = tensor_on_gpu.numpy() #this will throw an error because numpy don't support GPU
 tensor_numpy = tensor_on_gpu.cpu().numpy()
 print(tensor_numpy, type(tensor_numpy))
 
