@@ -1,19 +1,18 @@
 import torch
 import numpy as np
-import cupy as cp
+CUPY_AVAILABLE = True
+try:
+    import cupy as cp
+except ImportError as e:
+    CUPY_AVAILABLE = False
+    print("Failed to import cupy:", e)
+    
 device = "cuda" if torch.cuda.is_available else "cpu"
-print(device, torch.cuda.device_count())
-num_gpus = cp.cuda.runtime.getDeviceCount()
-print(num_gpus)
+print(device)
+if device == "cuda" and CUPY_AVAILABLE:
+    num_gpus = cp.cuda.runtime.getDeviceCount()
+    print(num_gpus)
 
 tensor = torch.tensor([1, 2, 3])
+# tensor = tensor.to(device)
 print(tensor, tensor.device)
-
-tensor_on_gpu = tensor.to(device)
-print(tensor_on_gpu, tensor_on_gpu.device)
-
-tensor_numpy = tensor_on_gpu.cpu().numpy()
-print(tensor_numpy, type(tensor_numpy))
-
-tensor_cupy = cp.asarray(tensor_numpy)
-print(tensor_cupy, type(tensor_cupy))
