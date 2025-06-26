@@ -1,4 +1,5 @@
 from ast import List
+from turtle import forward
 import torch
 from torch import nn
 import matplotlib.pyplot as plt
@@ -6,6 +7,25 @@ from tqdm import tqdm
 import string
 from torchinfo import summary
 from datetime import datetime
+from pathlib import Path
+from safetensors import safe_open
+from safetensors.torch import save_file
+
+class LinearRegressionModel(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.weights = nn.Parameter(torch.randn(1, dtype=torch.float32), requires_grad=True)
+        self.bias = nn.Parameter(torch.randn(1, dtype=torch.float32), requires_grad=True)
+    def forward(self, x:torch.Tensor)->torch.Tensor:
+        return self.weights * x + self.bias
+    
+class LinearRegressionV2(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.linear_layer = nn.Linear(in_features=1, out_features=1)
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        return self.linear_layer(x)    
+        
 
 def plot_prediction(train_data, train_labels, test_data, test_labels, pred=None, fig_name=None):
         
@@ -38,14 +58,46 @@ def plot_train_test_loss(epochs_counts, train_loss_values, test_loss_values, fig
     plt.savefig(saving_fig_name)
     # plt.show()
     # plt.close()
- 
-class LinearRegressionModel(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.weights = nn.Parameter(torch.randn(1, dtype=torch.float32), requires_grad=True)
-        self.bias = nn.Parameter(torch.randn(1, dtype=torch.float32), requires_grad=True)
-    def forward(self, x:torch.Tensor)->torch.Tensor:
-        return self.weights * x + self.bias
+
+def saving_model(model, output_model_format_type="torch_default", saving_model_folder="models", output_model_name="default_model_name"):
+    model_map = {
+        'torch_default': '.pth',
+        'torch_script': '.pth',
+        'safetensors': '.safetensors',
+        'onnx': '.onnx'
+    }
+    model_path = Path(saving_model_folder)
+    model_path.mkdir(parents=True, exist_ok=True)
+    now = datetime.now()
+
+    model_save_path = None
+    if not isinstance(output_model_name, str):
+        print('your output model is not valid, fall back to default output model name')
+        output_model_name = 'default_model_name'
+    if output_model_name == "default_model_name":
+        output_model_name = "model_" + now.strftime("%y-%m-%d_%H_%M_%S")
+    if not isinstance(output_model_format_type) or output_model_format_type not in model_map:
+        print('Your output model format type not valid, fall back to default torch native saving format')
+        output_model_format_type = 'torch_default'
+    if model_map.get(output_model_format_type) is not None:
+        output_model_name = output_model_name + model_map.get(output_model_format_type)
+    
+    else:
+        print('Your format not valid, fall back to default torch native saving format')
+        output_model_name = output_model_name + '.pth'
+        output_model_format_type = 'torch_default'
+
+    model_save_path = model_path / output_model_name
+    if output_model_format_type == 'torch_default':
+        print(f'Your model is saving to {model_save_path}')
+        torch.save(model.state_dict(), model_save_path)
+    elif output_model_format_type == 'torch_script':
+
+       
+    
+
+    
+    
 
 def train_model(model, train_data, train_labels, test_data, test_labels, num_epochs):
     train_loss_values = []
@@ -80,6 +132,7 @@ def train_model(model, train_data, train_labels, test_data, test_labels, num_epo
     plot_train_test_loss(epoch_counts, train_loss_values, test_loss_values, "train_test_loss_chart")
 
 
+
         
 
 def main():
@@ -107,13 +160,11 @@ def main():
     print(f"starting seed model with seed {seed}")
     print(X_train)
     torch.manual_seed(seed)
-    model_0 = LinearRegressionModel()
+    # model_0 = LinearRegressionModel()
+    model_0 = LinearRegressionV2()
     print("Model summary")
     summary(model_0, X_train.shape)
     train_model(model_0, X_train, y_train, X_test, y_test, 1000)
-
-    
-    
 
 if __name__ == "__main__":
     main()
