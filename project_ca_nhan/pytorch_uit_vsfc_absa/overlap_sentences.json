@@ -1,0 +1,61 @@
+{
+    "sentence": [
+        {
+            "text": "thầy không có up tài liệu cũng như bài giảng lên moodle .",
+            "aspects": [
+                {
+                    "term": "thầy không có up tài liệu",
+                    "category": "Support from lecturers",
+                    "polarity": "negative",
+                    "from": 0,
+                    "to": 25
+                },
+                {
+                    "term": "up tài liệu",
+                    "category": "Course information",
+                    "polarity": "negative",
+                    "from": 14,
+                    "to": 25
+                }
+            ]
+        },
+        {
+            "text": "phong cách giảng dạy của giảng viên rất không thu hút sinh viên , và nội dung giảng dạy không đáp ứng được lượng kiến thức cần thiết làm cho sinh viên không có hứng thú học tập , phải sang lớp học khác , hoặc có khi nghỉ học đến gần hết lớp .",
+            "aspects": [
+                {
+                    "term": "phong cách giảng dạy của giảng viên rất không thu hút sinh viên , và nội dung giảng dạy",
+                    "category": "Teaching quality",
+                    "polarity": "negative",
+                    "from": 0,
+                    "to": 87
+                },
+                {
+                    "term": "nội dung giảng dạy",
+                    "category": "Teaching quality",
+                    "polarity": "negative",
+                    "from": 69,
+                    "to": 87
+                }
+            ]
+        },
+        {
+            "text": "giảng dạy nhiệt tình , tận tâm , cách giảng dạy dễ hiểu .",
+            "aspects": [
+                {
+                    "term": "dạy nhiệt tình , tận tâm , cách giảng dạy",
+                    "category": "Teaching quality",
+                    "polarity": "positive",
+                    "from": 6,
+                    "to": 47
+                },
+                {
+                    "term": "cách giảng dạy",
+                    "category": "Teaching quality",
+                    "polarity": "positive",
+                    "from": 33,
+                    "to": 47
+                }
+            ]
+        }
+    ]
+}
