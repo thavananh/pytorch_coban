@@ -1,0 +1,145 @@
+[
+  {
+    "text": "cho em xin đính chính bài phiếu khảo sát môn đại số tuyến tính của thầy wzjwz190 rất hoàn hảo , thầy rất tận tâm , tận lực với nghề , truyền cho sinh viên tất cả kiến thức mà thầy có , rất nhiệt tình , chu đáo , thảo luận sôi nổi , hồi âm kết quả qua mail rất nhanh , và giúp học sinh hiểu rất rõ về bài giảng , bài đánh giá của em về thầy có chút nhầm lẫn , mong nhà trường chỉnh lại giúp em .",
+    "aspects": [
+      {
+        "term": "bài phiếu khảo sát môn đại số tuyến tính",
+        "category": "Test and evaluation",
+        "polarity": "positive",
+        "from": 22,
+        "to": 62
+      },
+      {
+        "term": "truyền cho sinh viên tất cả kiến thức",
+        "category": "Teaching quality",
+        "polarity": "positive",
+        "from": 134,
+        "to": 171
+      },
+      {
+        "term": "thảo luận",
+        "category": "Learning environment",
+        "polarity": "positive",
+        "from": 212,
+        "to": 221
+      },
+      {
+        "term": "hồi âm kết quả qua mail",
+        "category": "Support from lecturers",
+        "polarity": "positive",
+        "from": 232,
+        "to": 255
+      }
+    ]
+  },
+  {
+    "text": "bài tập thì không còn như thời cấp 3 chỉ có vài dạng cơ bản , số lượng cũng như độ khó ngày càng tăng , thời gian của sinh viên cũng chẳng phải dư dả , sinh viên cũng cần phải đầu tư cho các môn học khác , nên cách đưa ra những công thức trọng tâm , những bài tập cần và đủ của thầy khiến em một nữ sinh viên cảm thấy hứng thú hơn khi học vật lý , một học dường như chỉ dành cho các bạn nam .",
+    "aspects": [
+      {
+        "term": "bài tập",
+        "category": "Workload",
+        "polarity": "neutral",
+        "from": 0,
+        "to": 7
+      }
+    ]
+  },
+  {
+    "text": "cơ sở vật chất cần tăng cường hơn , vệ sinh phòng học , hành lang nên tiến hành buổi chiều sau khi sinh viên tan học hoặc sáng sớm , không nên để khi mở cửa cho sinh viên vào 7h20 mới quét rất bụi và ảnh hưởng đến sinh viên , sáng sớm đi học ở hành lang 7h15 - 7h20 cũng quét rất bụi và quét hắt thẳng vào sinh viên đang đi trên hành lang rất khó ứng xử mong ban quản lý cơ sở có ý kiến thêm về việc này .",
+    "aspects": [
+      {
+        "term": "cơ sở vật chất cần tăng cường hơn , vệ sinh phòng học , hành lang nên tiến hành buổi chiều sau khi sinh viên tan học hoặc sáng sớm , không nên để khi mở cửa cho sinh viên vào 7h20 mới quét rất bụi và ảnh hưởng đến sinh viên , sáng sớm đi học ở hành lang 7h15 - 7h20 cũng quét rất bụi và quét hắt thẳng vào sinh viên đang đi trên hành lang rất khó ứng xử mong ban quản lý cơ sở có ý kiến thêm về việc này",
+        "category": "Learning environment",
+        "polarity": "neutral",
+        "from": 0,
+        "to": 403
+      }
+    ]
+  },
+  {
+    "text": "thực hành hình thức 2 tỏ ra kém hiệu quả , chủ yếu cho cái đồ án môn học rồi sinh viên tự mày mò mà làm , thời gian để sinh viên và giáo viên tương tác không có vì một hai buổi gặp sinh viên không thể giúp sinh viên được nhiều , vì đồ án chỉ tập trung vào một chủ đề nào đó trong môn học nên tổng quan lại là sinh viên chỉ nắm được kiến thức phần được làm , không nắm được các nội dung khác trong nội dung học .",
+    "aspects": [
+      {
+        "term": "thực hành hình thức 2",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 0,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "text": "một vấn đề nữa , em mong quý thầy cô tạo một không khí hưng thú cho sinh viên , có thể kể thêm chuyện ngoài lề , bao giờ vui vẻ thì sinh viên cũng học tốt hơn , gò bó ép buộc mình vào một điều gì đó đôi khi lại phản tác dụng , em tin nếu làm được thế sinh viên sẽ tự giác đi học nhiều hơn , còn việc điểm danh thì thủ tục quá gây cho học sinh tâm lý trói buộc .",
+    "aspects": [
+      {
+        "term": "tạo một không khí hưng thú cho sinh viên , có thể kể thêm chuyện ngoài lề , bao giờ vui vẻ thì sinh viên cũng học tốt hơn , gò bó ép buộc mình vào một điều gì đó đôi khi lại phản tác dụng , em tin nếu làm được thế sinh viên sẽ tự giác đi học nhiều hơn , còn việc điểm danh thì thủ tục quá gây cho học sinh tâm lý trói buộc",
+        "category": "Teaching quality",
+        "polarity": "neutral",
+        "from": 37,
+        "to": 359
+      }
+    ]
+  },
+  {
+    "text": "không nên đánh giá tập trung vào một bài thi cuối kỳ duy nhất , chia thành nhiều phần doubledot 60% kiến thức ai doubledot trong đó có thể kiểm tra giấy như hiện nay bài tập lớn 40% một đồ án vận dụng trí tuệ nhân tạo ( ai ) bài thi cuối kỳ không đảm bảo đánh giá đúng chất lượng sinh viên doubledot đề thi cho những câu dễ , chỉ mất thời gian để trình bày hơn là thời gian suy nghĩ .",
+    "aspects": [
+      {
+        "term": "đánh giá tập trung",
+        "category": "Test and evaluation",
+        "polarity": "neutral",
+        "from": 10,
+        "to": 28
+      }
+    ]
+  },
+  {
+    "text": "đặc biệt cần thông tin cụ thể về những dụng cụ nào nhà trường phải có trách nhiệm cấp cho sinh viên và giảng viên , ví dụ như có trường hợp bút lông viết bảng xài qua vài học kỳ đã khô hết mực , bút mờ không viết được nhưng giảng viên và sinh viên không biết đến đâu để đổi hay thay bút mới nên dẫn đến có giảng viên đành nói chay , không ghi chép được gì , hoặc phải tự đi mua bút viết bảng mới để viết .",
+    "aspects": [
+      {
+        "term": "giảng viên",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 103,
+        "to": 113
+      },
+      {
+        "term": "bút lông viết bảng",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 140,
+        "to": 158
+      }
+    ]
+  },
+  {
+    "text": "thay đổi cách truyền đạt môn , thay vì giảng viên có giờ lên lớp giảng bài nhàm chán , sinh viên tiếp thu thụ động , ý kiến doubledot giảng viên chia nhỏ nhóm học tập , mỗi buổi sẽ đưa chủ đề của bài hôm đó và giải thích cách làm việc , cho thời gian sinh viên làm việc nhóm với sự giám xác của giảng viên , sau đó bốc thăm cho từng nhóm lên trình bày , sau đó giảng viên nhận xét cho điểm .",
+    "aspects": [
+      {
+        "term": "truyền đạt môn",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 14,
+        "to": 28
+      },
+      {
+        "term": "ý kiến doubledot giảng viên chia nhỏ nhóm học tập , mỗi buổi sẽ đưa chủ đề của bài hôm đó và giải thích cách làm việc , cho thời gian sinh viên làm việc nhóm với sự giám xác của giảng viên , sau đó bốc thăm cho từng nhóm lên trình bày , sau đó giảng viên nhận xét cho điểm",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 117,
+        "to": 389
+      }
+    ]
+  },
+  {
+    "text": "nội dung môn học quá nhiều so với thời lượng một học kỳ , môn trong toàn bộ chương trình đào tạo thì chỉ có duy nhất môn này liên quan đến tín hiệu số và là một phần khá quan trọng trong kỹ năng kiến thức cần có , nhưng thời lượng bố trí chỉ có một học kỳ và chỉ một môn , khiến nội dung phải nhồi nhét khá nhiều , kiến thức chỉ ở cơ bản và không thể chuyên sâu được .",
+    "aspects": [
+      {
+        "term": "nội dung môn học quá nhiều so với thời lượng một học kỳ",
+        "category": "Course information",
+        "polarity": "negative",
+        "from": 0,
+        "to": 55
+      }
+    ]
+  }
+]

@@ -1,0 +1,1008 @@
+[
+  {
+    "text": "cần phải thay đổi phần nội dung của phần thực hành và cách giảng dạy của giảng viên thực hành , sinh viên chưa được học lý thuyết mà thực hành đã phải làm bài tập trong khi giảng viên thực hành không hướng dẫn sinh viên cụ thể phải làm gì với bài tập đó .",
+    "aspects": [
+      {
+        "term": "nội dung của phần thực hành",
+        "category": "Course information",
+        "polarity": "negative",
+        "from": 23,
+        "to": 50
+      },
+      {
+        "term": "làm bài tập",
+        "category": "Workload",
+        "polarity": "negative",
+        "from": 151,
+        "to": 162
+      },
+      {
+        "term": "hướng dẫn sinh viên",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 200,
+        "to": 219
+      }
+    ]
+  },
+  {
+    "text": "giảng viên giảng bài không tạo được sự hứng thú cho sinh viên khi học , nên thường phải áp dụng phương pháp của các giáo viên dạy môn chính trị như doubledot không cho sử dụng điện thoại , laptop trong lớp , điểm danh hoặc gọi tên để trả lời câu hỏi .",
+    "aspects": [
+      {
+        "term": "giảng bài",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 11,
+        "to": 20
+      }
+    ]
+  },
+  {
+    "text": "thời gian các tiết thực hành cần phân bổ phù hợp với thời gian lý thuyết vì thường thì những bài thực hành đi sớm hơn so với bài lý thuyết kể từ những tuần khoảng giữa nên giảng viên hỗ trợ thực hành không thể cho sinh viên thực hành phần đó .",
+    "aspects": [
+      {
+        "term": "thời gian các tiết thực hành cần phân bổ phù hợp với thời gian lý thuyết vì thường thì những bài thực hành đi sớm hơn so với bài lý thuyết kể từ những tuần khoảng giữa nên giảng viên hỗ trợ thực hành không thể cho sinh viên thực hành phần đó",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 0,
+        "to": 241
+      }
+    ]
+  },
+  {
+    "text": "thế nhưng việc thời hạn nộp bài không được chính xác gây khó khăn trong việc nộp bài , cụ thể là thời hạn nộp bài đôi khi đã được ấn định , nhưng sau đó lại được gia hạn thêm , vậy thì không công bằng với những người đã bỏ công sức ra để cố gắng hoàn thành công việc đúng thời hạn ban đầu .",
+    "aspects": [
+      {
+        "term": "thời hạn nộp bài không được chính xác gây khó khăn trong việc nộp bài , cụ thể là thời hạn nộp bài đôi khi đã được ấn định , nhưng sau đó lại được gia hạn thêm , vậy thì không công bằng",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 15,
+        "to": 200
+      }
+    ]
+  },
+  {
+    "text": "yêu cầu nên cụ thể cho từng thành viên trong nhóm đò án vì chấm điểm đồ án theo từng cá nhân , từng yêu cầu mà có những nhóm làm đồ án không chia công việc từ đầu mà làm chung tất cả , dẫn đến các thành viên không đáp ứng được tiêu chí chấm điểm đồ án .",
+    "aspects": [
+      {
+        "term": "chấm điểm đồ án",
+        "category": "Test and evaluation",
+        "polarity": "neutral",
+        "from": 59,
+        "to": 74
+      },
+      {
+        "term": "chia công việc từ đầu mà làm chung tất cả , dẫn đến các thành viên không đáp ứng được tiêu chí chấm điểm đồ án",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 141,
+        "to": 251
+      }
+    ]
+  },
+  {
+    "text": "mong thầy giảm độ khó của đề thi lại thầy ơi hu hu em sắp rớt môn đến nơi rồi ạ , đề thi giữa kỳ bài cơ bản để lấy điểm thì số điểm lại ít , còn các bài khó thì thầy cho nhiều điểm quá nên lớp khá nhiều bạn dưới trung bình trong kỳ thi vừa rồi à colonsad .",
+    "aspects": [
+      {
+        "term": "đề thi giữa kỳ bài cơ bản",
+        "category": "Test and evaluation",
+        "polarity": "negative",
+        "from": 82,
+        "to": 107
+      }
+    ]
+  },
+  {
+    "text": "mặc dù em rất thích cách dạy của cô nhưng có một vấn đề là cô dạy hơi nhanh , không phải giảng nhanh bài học mà cách cô nói nhanh , như vậy rất mệt vì phải nói liên hồi , mỗi lần cô nói một hơi xong là em thấy rất thương cô , chắc vì cô quen rồi , nhưng mong cô nói chậm lại một tý .",
+    "aspects": [
+      {
+        "term": "giảng nhanh bài học mà cách cô nói nhanh",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 89,
+        "to": 129
+      }
+    ]
+  },
+  {
+    "text": "nêu rõ các lý do để học môn học này , ứng dụng thự tế của môn học này ví dụ doubledot đưa ra bài toán hay về thuật toán thông minh trong game để tạo hứng thú cho người học , hoặc xây dựng một số ứng dụng thực tế cho người học đang cần để người học phải tự giác tìm kiếm tài liệu cho mình để học .",
+    "aspects": [
+      {
+        "term": "nêu rõ các lý do để học môn học này , ứng dụng thự tế của môn học này ví dụ doubledot",
+        "category": "Course information",
+        "polarity": "neutral",
+        "from": 0,
+        "to": 85
+      }
+    ]
+  },
+  {
+    "text": "phong cách giảng dạy của giảng viên rất không thu hút sinh viên , và nội dung giảng dạy không đáp ứng được lượng kiến thức cần thiết làm cho sinh viên không có hứng thú học tập , phải sang lớp học khác , hoặc có khi nghỉ học đến gần hết lớp .",
+    "aspects": [
+      {
+        "term": "phong cách giảng dạy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 0,
+        "to": 20
+      }
+    ]
+  },
+  {
+    "text": "nội dung môn học có tính áp đặt người học , không thực tế , nên thay nội dung giảng dạy bằng việc dạy thêm những thứ có liên quan đến ngành sinh viên đang học mảng web thì cần biết php , html , cs , js , hay làm về embeded system thì cần c .",
+    "aspects": [
+      {
+        "term": "nội dung môn học",
+        "category": "Course information",
+        "polarity": "negative",
+        "from": 0,
+        "to": 16
+      }
+    ]
+  },
+  {
+    "text": "anh văn ở đại học không thể dạy giống như cấp 3 được khi cô dạy lớp im không sôi nổi , chỉ có vài người giơ tay vì câu hỏi không mang tính tương tác , câu trả lời có sẵn trong bài chỉ cần đọc lên nên nhiều người chán không giơ tay , đi học chỉ để điểm danh .",
+    "aspects": [
+      {
+        "term": "anh văn ở đại học",
+        "category": "Course information",
+        "polarity": "negative",
+        "from": 0,
+        "to": 17
+      }
+    ]
+  },
+  {
+    "text": "mới đầu tiên em nghĩ thầy khó tính gây áp lực cho em , thầy cho làm deadline quá trời mà những lớp khác không có , nhưng đến bây giờ em mới hiểu nhờ thầy em biết được nhiều dạng bài tập hơn , thầy thích hợp dạy môn kiến trúc máy tính , nhưng mà thầy dạy phần cứng hay hơn ấy ạ .",
+    "aspects": [
+      {
+        "term": "thầy khó tính",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 21,
+        "to": 34
+      },
+      {
+        "term": "deadline",
+        "category": "Workload",
+        "polarity": "negative",
+        "from": 68,
+        "to": 76
+      }
+    ]
+  },
+  {
+    "text": "thứ nhất , phần thực hành phần đồ án doubledot thường là phần cài đặt một chương trình trên máy dựa theo phần lý thuyết đã học được thường được công bố khá trễ , thường là vào khoảng một tháng cuối cùng của học kỳ , sau khi thi lý thuyết cuối kỳ xong .",
+    "aspects": [
+      {
+        "term": "thực hành phần đồ án",
+        "category": "Test and evaluation",
+        "polarity": "negative",
+        "from": 16,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "text": "môn java này là môn quan trọng , là nền để phát triền các ngôn ngữ , môn học sau này , nhưng sau học kỳ học môn java ở lớp này thì 80% sinh viên phải tự vò đầu tìm hiểu , tự google lấy kiến thức , không được nhận bất cứ sự giúp đỡ hướng dẫn gì từ giảng viên .",
+    "aspects": [
+      {
+        "term": "môn",
+        "category": "Course information",
+        "polarity": "neutral",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "term": "hướng dẫn",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 231,
+        "to": 240
+      }
+    ]
+  },
+  {
+    "text": "lớp lý thuyết chủ yếu dạy về các công nghệ mới , những sáng tạo trong công nghệ trên thế giới cũng như trong lĩnh vực di động , rất ít kiến thức về lập trình để tôi có thể hiểu về lập trình trên thiết bị di động cũng như việc làm bài tập ở lớp thực hành và đồ án môn học .",
+    "aspects": [
+      {
+        "term": "lớp lý thuyết",
+        "category": "Course information",
+        "polarity": "neutral",
+        "from": 0,
+        "to": 13
+      }
+    ]
+  },
+  {
+    "text": "lập trình hướng đối tượng nói riêng và tất cả các môn liên quan đến lập trình nói chung theo em nên được cập nhật tài liệu thường xuyên , đặc biệt là các phần mềm trong các phòng lab để tránh tình trạng các tài liệu và phần mềm hỗ trợ học tập lỗi thời và gây khó khăn cho việc giảng dạy và học tập .",
+    "aspects": [
+      {
+        "term": "tài liệu",
+        "category": "Course information",
+        "polarity": "neutral",
+        "from": 114,
+        "to": 122
+      },
+      {
+        "term": "phần mềm trong các phòng lab",
+        "category": "Learning environment",
+        "polarity": "neutral",
+        "from": 154,
+        "to": 182
+      }
+    ]
+  },
+  {
+    "text": "buổi học buổi không hiệu quả , sinh viên tới trường học mà không thấy giáo viên , nghỉ không thông báo , mà nghỉ mấy nhiểu buổi như vậy , vừa tốn thời gian sinh viên tốn công sức tới trường không thấy giáo viên đâu , ngồi đợi cả buổi không có sinh viên mới bỏ về .",
+    "aspects": [
+      {
+        "term": "buổi học",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 0,
+        "to": 8
+      }
+    ]
+  },
+  {
+    "text": "cần cải thiện chất lượng phòng học thực hành của khoa wzjwz36 tại phòng wzjwz37 , máy tính của trường cung cấp không thể sử dụng để thực hành , 10% sinh viên phải dùng laptop cá nhân để làm thực hành , bên cạnh đó phòng học cũng rất chật và nóng bức .",
+    "aspects": [
+      {
+        "term": "phòng học thực hành",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 25,
+        "to": 44
+      },
+      {
+        "term": "máy tính",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 82,
+        "to": 90
+      }
+    ]
+  },
+  {
+    "text": "là người giáo viên quan tâm tới sinh viên nhiều nhất từng biết , giảng dạy tân tình từng chút một , dễ hiểu , lắng nghe sinh viên , tài liệu cập nhật đầy đủ ngay sau buổi học , nhờ đó sinh viên dù tư duy kém nhưng vẫn theo kịp chứ không nản , bỏ bê , ngủ như mấy môn khác .",
+    "aspects": [
+      {
+        "term": "người giáo viên",
+        "category": "Support from lecturers",
+        "polarity": "positive",
+        "from": 3,
+        "to": 18
+      },
+      {
+        "term": "giảng dạy",
+        "category": "Teaching quality",
+        "polarity": "positive",
+        "from": 65,
+        "to": 74
+      },
+      {
+        "term": "tài liệu",
+        "category": "Course information",
+        "polarity": "positive",
+        "from": 132,
+        "to": 140
+      },
+      {
+        "term": "nhờ đó sinh viên dù tư duy kém nhưng vẫn theo kịp chứ không nản , bỏ bê , ngủ như mấy môn khác",
+        "category": "General review",
+        "polarity": "positive",
+        "from": 177,
+        "to": 271
+      }
+    ]
+  },
+  {
+    "text": "riêng em , là một sinh viên kỹ thuật máy tính , em thấy môn này là cần thiết đối với em , tuy nhiên chưa thực sự là một môn học em cần phải đi sâu tìm hiểu , mong thầy về sau có thể hạ mức yêu cầu đầu ra với các bạn khoa khác ít liên quan tới môn học .",
+    "aspects": [
+      {
+        "term": "cần thiết đối với em , tuy nhiên chưa thực sự là một môn học em cần phải đi sâu tìm hiểu",
+        "category": "General review",
+        "polarity": "neutral",
+        "from": 67,
+        "to": 155
+      },
+      {
+        "term": "hạ mức yêu cầu đầu ra với các bạn khoa khác ít liên quan tới môn học",
+        "category": "Organization and management",
+        "polarity": "neutral",
+        "from": 182,
+        "to": 250
+      }
+    ]
+  },
+  {
+    "text": "em thấy việc thầy dời deadline nó không phù hợp và công bằng lắm đối với các bạn đã hoàn thành trước , có thể vì bài tập khó , nhưng nếu như vậy các nhóm đó cần bị trừ điểm nặng vì hoàn thành bài mà chậm deadline là một việc không thể chấp nhận được .",
+    "aspects": [
+      {
+        "term": "dời deadline nó không phù hợp và công bằng lắm đối với các bạn đã hoàn thành trước , có thể vì bài tập khó , nhưng nếu như vậy các nhóm đó cần bị trừ điểm nặng vì hoàn thành bài mà chậm deadline",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 18,
+        "to": 212
+      }
+    ]
+  },
+  {
+    "text": "nên có các bài tập bắt buộc doubledot cá nhân doubledot nắm sát được tiến độ và khả năng của từng sinh viên nhóm doubledot đánh giá và hình thành kỹ năng làm việc nhóm đôi khi do không bắt buộc các bài tập nhóm và các bài tập thuyết trình mà các bạn sinh viên thụ động !",
+    "aspects": [
+      {
+        "term": "bắt buộc doubledot cá nhân",
+        "category": "General review",
+        "polarity": "negative",
+        "from": 19,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "text": "giảng viên không nên cho các nhóm tổ chức seminar để tìm hiểu vấn đề mới liên tục hàng tuần , làm vậy nảy sinh nhiều vấn đề doubledot thứ nhất là kiến thức sinh viên thu thập đa phần đều giống nhau , lấy từ một nguồn và làm qua loa đối phó .",
+    "aspects": [
+      {
+        "term": "tổ chức seminar để tìm hiểu vấn đề mới liên tục hàng tuần",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 34,
+        "to": 91
+      }
+    ]
+  },
+  {
+    "text": "thầy thường xuyên bắt sinh viên làm seminar , trình bày những vấn đề tràn lan đại hải , trong khi kiến thức cần thiết thì thầy không dạy khi thi giữa kỳ sinh viên thậm chí còn không hiểu đề , đa phần làm bài không tốt , kiến thức chủ yếu từ giảng viên thực hành .",
+    "aspects": [
+      {
+        "term": "dạy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 133,
+        "to": 136
+      }
+    ]
+  },
+  {
+    "text": "cô nên cho sinh viên nâng cao kỹ năng nói nhiều hơn , vì hầu như vào lớp không được nói nhiều , dẫn đến khâu speaking còn kém quá , có nhiều câu đơn giản nhưng tụi em sẽ không biết nói như thế nào và không biết mình nói đúng hay sai vì không được ai sữa lỗi .",
+    "aspects": [
+      {
+        "term": "cô",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 0,
+        "to": 2
+      }
+    ]
+  },
+  {
+    "text": "thầy cần tổ chức một vài buổi giải bài tập nho nhỏ để em hiểu thêm về môn học đặc tả hình thức ( cá nhân em thấy môn này khá khó hiểu ) , đồng thời mong nhà trường sắp xếp lịch dạy của thầy cho ổn thỏa để thầy có thể dạy liên tục mà không bị gián đoạn những buổi họp giao ban đầu tháng colonsmile .",
+    "aspects": [
+      {
+        "term": "tổ chức một vài buổi giải bài tập nho nhỏ",
+        "category": "Organization and management",
+        "polarity": "positive",
+        "from": 9,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "text": "thầy dạy rất tận tâm và dễ hiểu , tuy bị mất căn bản nhập môn lập trình nhưng sau mỗi buổi học của thầy , em cảm thấy vô cùng hứng thú và có động lực hơn với môn lập trình hướng đối tượng nói riêng và những môn có liên quan đế lập trình khác nói chung .",
+    "aspects": [
+      {
+        "term": "dạy",
+        "category": "Teaching quality",
+        "polarity": "positive",
+        "from": 5,
+        "to": 8
+      }
+    ]
+  },
+  {
+    "text": "em thấy phòng thư viện tầng trên mà bọn em học không hề phù hợp với việc học anh văn vì thiết kế bảng và hệ thống máy tính khiến bọn em cứ phải mỏi cổ ngoảnh sang trái hoặc sang phải suốt cả buổi học vì bọn em cũng chả dùng máy tính để làm gì trong giờ học anh văn cả .",
+    "aspects": [
+      {
+        "term": "thiết kế bảng và hệ thống máy tính",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 88,
+        "to": 122
+      }
+    ]
+  },
+  {
+    "text": "nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu , gây khó khăn trong việc báo cáo đồ án cũng như dạy học cần nâng cấp hệ thống wifi vì khi vào phòng thực hành , wifi không sử dụng được , sinh viên buộc phải ra bên ngoài để làm bài .",
+    "aspects": [
+      {
+        "term": "nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu , gây khó khăn trong việc báo cáo đồ án cũng như dạy học cần nâng cấp hệ thống wifi vì khi vào phòng thực hành , wifi không sử dụng được , sinh viên buộc phải ra bên ngoài để làm bài",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 0,
+        "to": 252
+      }
+    ]
+  },
+  {
+    "text": "có một điều rất bất cập là tiến độ của thực hành đi trước lý thuyết rất nhiều , thực hành đã qua từ rất lâu trong quá trình thực hành thì việc tìm hiều thông tin , tiếp thu rất khó khăn , một thời gian sau , gần hết học kỳ thì lý thuyết mới dạy tới phần đó .",
+    "aspects": [
+      {
+        "term": "lý thuyết",
+        "category": "Workload",
+        "polarity": "negative",
+        "from": 58,
+        "to": 67
+      }
+    ]
+  },
+  {
+    "text": "\"môn nhập môn công nghệ phần mềm trước đây thầy thường bắt seminar cho hết giờ , xong rồi có những câu nói gây mất thiện cảm , thiếu trách nhiệm doubledot \"\" tuần sau thi giữa kỳ ha , nội dung là phần này ha , mấy em xem lại bài ha , không hiểu thì hỏi bạn ha , chúng ta kết thúc ở đây ha \"\" .\"",
+    "aspects": [
+      {
+        "term": "thầy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 43,
+        "to": 47
+      }
+    ]
+  },
+  {
+    "text": "không thông báo rõ ràng và đầy đủ quy định cụ thể khi cho sinh viên làm đồ án , đến khi chỉ còn một tháng cuối mới nhận được thông báo không được sử dụng một số thư viện ( sinh viên mail hỏi thì mới nhận được thông báo ) dẫn đến khó khăn cho sinh viên dù đã làm xong đồ án và phải làm lại .",
+    "aspects": [
+      {
+        "term": "không thông báo rõ ràng và đầy đủ quy định cụ thể khi cho sinh viên làm đồ án , đến khi chỉ còn một tháng cuối mới nhận được thông báo không được sử dụng một số thư viện",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 0,
+        "to": 169
+      }
+    ]
+  },
+  {
+    "text": "tôi thiết nghĩ cùng tham khảo source code như nhau , mà lại có đứa đậu có đứa rớt mặt dù thầy thừa biết code đó là lấy từ internet về chứ có phải tự code đâu , thiết nghĩ tại sao thầy chỉ hỏi lý thuyết những bạn kia , mà lại căng xi măng chặn từng đoạn code đối với mình .",
+    "aspects": [
+      {
+        "term": "đứa đậu có đứa rớt",
+        "category": "Test and evaluation",
+        "polarity": "negative",
+        "from": 63,
+        "to": 81
+      }
+    ]
+  },
+  {
+    "text": "mở các câu lạc bộ về lập trình sẽ giúp các sinh viên đầu khoá có cách tiếp cận môn học dễ dàng cũng như cách nghiên cứu về môn học , còn các sinh viên năm 3 năm 4 sẽ có cơ hội hướng dẫn các sinh viên đầu khoá , như vậy các anh chị khoá trên sẽ nắm chặt kiến thức hơn .",
+    "aspects": [
+      {
+        "term": "mở các câu lạc bộ về lập trình",
+        "category": "Organization and management",
+        "polarity": "positive",
+        "from": 0,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "text": "hầu như trong cả năm học , giảng viên chỉ đi dạy đúng thời khoá biểu chỉ từ 2 đến 3 ngày , còn lại giảng viên lại tự ý dời lịch học sang ngày thứ 7 mà không hỏi ý kiến của sinh viên , vì vào ngày thứ 7 có rất nhiều sinh viên có lịch học môn khác .",
+    "aspects": [
+      {
+        "term": "dạy đúng thời khoá biểu",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 45,
+        "to": 68
+      }
+    ]
+  },
+  {
+    "text": "nếu xét về mặt ý nghĩa thì đúng , nhưng heapsort là một phương pháp khó và hoàn toàn mới , trong khi tất cả các lớp khác giảng viên hướng dẫn nhiệt tình mà còn có nhiều sinh viên không hiểu , ở đây thầy lạ khẳng định không thi mà nói câu đó nữa thì sinh viên sau phục được !",
+    "aspects": [
+      {
+        "term": "nếu xét về mặt ý nghĩa thì đúng , nhưng heapsort là một phương pháp khó và hoàn toàn mới , trong khi tất cả các lớp khác giảng viên hướng dẫn nhiệt tình mà còn có nhiều sinh viên không hiểu , ở đây thầy lạ khẳng định không thi mà nói câu đó nữa thì sinh viên sau phục được",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 0,
+        "to": 272
+      }
+    ]
+  },
+  {
+    "text": "\"đầu thì thông báo là sẽ lập nhóm khoảng 5 người để seminar lấy điểm giữa kỳ , sau đó không cho seminar nữa mà thông báo lập lờ là \"\" có thể \"\" sẽ cho nhóm 2 người để là website cộng điểm , mới đây thì lại thông báo là mỗi người làm 1 website để cộng điểm .\"",
+    "aspects": [
+      {
+        "term": "lập nhóm khoảng 5 người để seminar lấy điểm giữa kỳ , sau đó không cho seminar nữa mà thông báo lập lờ là \"\" có thể \"\" sẽ cho nhóm 2 người để là website cộng điểm , mới đây thì lại thông báo là mỗi người làm 1 website để cộng điểm",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 25,
+        "to": 255
+      }
+    ]
+  },
+  {
+    "text": "giảng viên dạy rất nhiệt tình , tuy nhiên việc dạy quá giờ lên lớp sẽ khiến nhiều sinh viên gặp khó khăn trong việc học , giảng viên dạy vượt qua tiết 4 và 5 khiến nhiều sinh viên phải sang học tiết khác và bỏ qua rất nhiều bài giảng dẫn đến việc học không hiệu quả .",
+    "aspects": [
+      {
+        "term": "giảng viên dạy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 0,
+        "to": 14
+      }
+    ]
+  },
+  {
+    "text": "theo ý kiến của em doubledot nếu như đầu ra tốt nghiệp là bằng cấp theo các chương trình ngoại ngữ bằng cấp toeic hay ielts thì em nghĩ là nên để phần đó cho các bạn sinh viên tự lo vì học av1 , av2 , av3 rồi lại phải học thêm mấy cái toeic với ielts thì mất một khoảng thời gian .",
+    "aspects": [
+      {
+        "term": "đầu ra tốt nghiệp là bằng cấp theo các chương trình ngoại ngữ bằng cấp toeic hay ielts thì em nghĩ là nên để phần đó cho các bạn sinh viên tự lo vì học av1 , av2 , av3",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 37,
+        "to": 204
+      }
+    ]
+  },
+  {
+    "text": "\"cách trả lời thắc mắc cho sinh viên về bài học khiến sinh viên khó chịu ( vì sinh viên chưa hoàn hảo nên đôi lúc có những câu hỏi \"\" trên trời \"\" , thầy có kinh nghiệm thì nên chỉ rõ lỗi sai của sinh viên chứ không nên hỏi vặn vẹo , gây khó chịu ) .\"",
+    "aspects": [
+      {
+        "term": "trả lời thắc mắc cho sinh viên",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 6,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "text": "có thể phần thực hành sinh viên sẽ có hai sự lựa chọn doubledot tự xây dựng một chương trình phân loại văn bản , như vậy chương trình sẽ có thể không xử lý được những đoạn văn bản phức tạp hoặc lớn thế nên cách chấm điểm sẽ có phần nương tay đối với phần áp dụng này .",
+    "aspects": [
+      {
+        "term": "phần thực hành sinh viên sẽ có hai sự lựa chọn doubledot",
+        "category": "Test and evaluation",
+        "polarity": "neutral",
+        "from": 7,
+        "to": 63
+      }
+    ]
+  },
+  {
+    "text": "thầy wzjwz254 rất hài hước và thân thiện , đặc biệt rất quan tâm đến việc học của sinh viên , thầy giải đáp tất cả những câu hỏi của em và cả sinh viên trong lớp , ngoài ra thầy còn nhờ những bạn đã hoàn thành xong bài tập của mình hướng dẫn cho những bạn chưa hiểu .",
+    "aspects": [
+      {
+        "term": "hài hước và thân thiện , đặc biệt rất quan tâm đến việc học của sinh viên , thầy giải đáp tất cả những câu hỏi của em và cả sinh viên trong lớp , ngoài ra thầy còn nhờ những bạn đã hoàn thành xong bài tập của mình hướng dẫn cho những bạn chưa hiểu",
+        "category": "Support from lecturers",
+        "polarity": "positive",
+        "from": 18,
+        "to": 265
+      }
+    ]
+  },
+  {
+    "text": "cũng như bao đứa sinh viên khác bước vào phòng báo cáo đồ án , tôi cảm thấy rất hồi hộp và lo sợ bởi lẽ đồ án lần này tôi không thật sự code 100% , tôi tham khảo nó từ internet và thay đổi một vài thứ để hoàn chỉnh và chờ đến ngày báo cáo .",
+    "aspects": [
+      {
+        "term": "báo cáo đồ án",
+        "category": "Test and evaluation",
+        "polarity": "neutral",
+        "from": 47,
+        "to": 60
+      }
+    ]
+  },
+  {
+    "text": "tôi và các bạn khác cùng bước vào , khi đó thầy yêu cầu đồng loạt mở hết code lên chạy demo để thầy chấm , và không may thay thầy đã tìm ra 2 bạn có source code y chang nhau , thầy bắt đầu tra hỏi lý thuyết về đề tài 'xxx' đối với 2 bạn đó .",
+    "aspects": [
+      {
+        "term": "thầy chấm",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 95,
+        "to": 104
+      }
+    ]
+  },
+  {
+    "text": "phòng học còn nóng và bụi bặm , máy chiếu tuy vẫn nhìn được nhưng như thế là mờ , ngồi xa hay hôm nào trời sáng quá sẽ khó thấy , việc chia hay phân công đề tài giảng viên cần tự làm thay vì giao cho lớp trưởng lúc đó sẽ không khách quan nữa vì có sự thiên vị giành giật .",
+    "aspects": [
+      {
+        "term": "phòng học",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "term": "việc chia hay phân công đề tài",
+        "category": "Organization and management",
+        "polarity": "neutral",
+        "from": 130,
+        "to": 160
+      }
+    ]
+  },
+  {
+    "text": "chào quý thầy cô , phương pháp học tập mới cdio em cảm thấy được áp dụng không hợp lý , ví dụ tuần này thầy wzjwz39 đang dạy vấn đề đó , do kiến thức còn nhiều nên sinh viên chưa nắm , đến tuần sau thầy toàn vào lại dạy một kiến thức hoàn toàn khác .",
+    "aspects": [
+      {
+        "term": "phương pháp học tập mới",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 19,
+        "to": 42
+      }
+    ]
+  },
+  {
+    "text": "sáng 7h15 - 7h20 các cô lao công mới quét lớp , sàn nhà , mà cứ quét là hắt thẳng kể cả mặt sinh viên đang đi ở hành lang các nhà như không có ai , rất khó chịu cho các bạn sinh viên , nói ra với các cô sợ các cô buồn rồi hôm sau hắt mạnh tay hơn .",
+    "aspects": [
+      {
+        "term": "quét lớp , sàn nhà , mà cứ quét là hắt thẳng kể cả mặt sinh viên đang đi ở hành lang",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 37,
+        "to": 121
+      }
+    ]
+  },
+  {
+    "text": "đồng ý là sinh viên thì tự học là chính , giảng viên là người hướng dẫn , nhưng mà tại lớp này giảng viên chẳng hướng dẫn được gì , cứ thao thao bất tuyệt đọc slide trên lớp xong về việc này tự sinh viên chúng em cũng làm được , giảng dạy kho hiểu , khô khan , demo không rõ ràng .",
+    "aspects": [
+      {
+        "term": "tự học là chính",
+        "category": "General review",
+        "polarity": "neutral",
+        "from": 24,
+        "to": 39
+      },
+      {
+        "term": "giảng viên là người hướng dẫn",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 42,
+        "to": 71
+      },
+      {
+        "term": "đọc slide trên lớp xong về việc này tự sinh viên chúng em cũng làm được",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 155,
+        "to": 226
+      }
+    ]
+  },
+  {
+    "text": "thầy cần quan tâm tới lớp hơn , hơn nữa nhiều lúc thầy cũng đi trễ , trong khi các bạn đi trễ quá 15 phút thì thầy khóa cửa và không cho vào nữa , trong khi môn học này sinh viên chỉ lên hỏi cách làm bài tập thầy giao chứ thầy không có hướng dẫn làm .",
+    "aspects": [
+      {
+        "term": "quan tâm tới lớp hơn",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 9,
+        "to": 29
+      },
+      {
+        "term": "đi trễ",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 60,
+        "to": 66
+      }
+    ]
+  },
+  {
+    "text": "\"hiện tại thì thầy đánh giá chủ yếu vào nội dung nội dung của các đồ án ngay từ đầu đã khá nhảm , đề bài của thầy đại loại là \"\" sinh viên hãy đề ra một dự án lớn , có khả năng thực hiện được trong tương lai \"\" , không liên quan gì đến tên môn học !\"",
+    "aspects": [
+      {
+        "term": "đánh giá",
+        "category": "Test and evaluation",
+        "polarity": "negative",
+        "from": 19,
+        "to": 27
+      }
+    ]
+  },
+  {
+    "text": "thầy wzjwz239 nói chuyện cọc lốc , không hiểu vấn đề gì hỏi thầy thì thầy lại như quát vào mặt , tạt nước lạnh , … nói chuyện xưng hô mày - tao ( có lúc thì xưng tớ - cậu nhưng lời nói đầy ẩn ý ) , hay nói móc và tìm cách bắt bẻ sinh viên .",
+    "aspects": [
+      {
+        "term": "thầy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "term": "không hiểu vấn đề gì hỏi thầy",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 35,
+        "to": 64
+      }
+    ]
+  },
+  {
+    "text": "em nhận thấy thầy wzjwz67 rất nhiệt tình trong việc giảng dạy , cung cấp rất nhiều thông tin thực tế cho sinh viên nhằm chuẩn bị kỹ năng khi đi ra ngoài làm việc , phương pháp học gắn sát thực tế , tuy đội lúc có gặp khó khăn nhưng cũng rất bổ ích .",
+    "aspects": [
+      {
+        "term": "giảng dạy",
+        "category": "Teaching quality",
+        "polarity": "positive",
+        "from": 52,
+        "to": 61
+      }
+    ]
+  },
+  {
+    "text": "tụi bạn em nó nói hỏi bài thầy thì mặt thầy có gì đó nghiêm trọng nhưng đối với em có bao giờ chuyện đó xảy ra , thầy nói chuyện rất là thật cái nào thầy chưa biết là thầy nói chưa biết ngay , thầy dạy xuất sắc 1 giáo viên trẻ quá tuyệt vời .",
+    "aspects": [
+      {
+        "term": "hỏi bài thầy",
+        "category": "Support from lecturers",
+        "polarity": "negative",
+        "from": 18,
+        "to": 30
+      },
+      {
+        "term": "nhưng đối với em có bao giờ chuyện đó xảy ra",
+        "category": "General review",
+        "polarity": "positive",
+        "from": 66,
+        "to": 110
+      }
+    ]
+  },
+  {
+    "text": "chứ em nghĩ phần thư viện standford dùng để phân loại văn bản theo phương pháp naive bayes mà thầy wzjwz133 sử dụng và áp dụng được chắc cần thời gian để nghiên cứu , tìm hiểu mà không được công bố và cho sinh viên áp dụng thì uổng và tội cho thầy wzjwz133 quá !",
+    "aspects": [
+      {
+        "term": "thầy",
+        "category": "Support from lecturers",
+        "polarity": "neutral",
+        "from": 94,
+        "to": 98
+      }
+    ]
+  },
+  {
+    "text": "theo em , chất lượng học ở trung tâm itp rất tốt nhưng chương trình em học nó lại ngắn hơn so với chương trình thì rất ít xấp xỉ 1 - 3 so với học bên ngoài đồng nghĩa với việc phải học một buổi chỉ được 2 tiếng rưỡi mà có khi em phải học 3 chương nên rất khó tiếp thu .",
+    "aspects": [
+      {
+        "term": "chất lượng học ở trung tâm itp",
+        "category": "Teaching quality",
+        "polarity": "positive",
+        "from": 10,
+        "to": 40
+      },
+      {
+        "term": "chương trình em học",
+        "category": "Course information",
+        "polarity": "negative",
+        "from": 55,
+        "to": 74
+      }
+    ]
+  },
+  {
+    "text": "dạy quá nhanh so với lý thuyết , có khi nhanh hơn cả 1 chương chớ không phải vài bài học , học thực hành mà không hiểu gì hết vì chưa học trên lý thuyết , theo em , học thực hành để củng cố kiến thức lý thuyết chớ không phải học lý thuyết để biết mình đã thực hành cái gì .",
+    "aspects": [
+      {
+        "term": "dạy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 0,
+        "to": 3
+      }
+    ]
+  },
+  {
+    "text": "không có gì không hài lòng , có góp ý xíu là sau này thầy có thể cho tự chọn mcu luôn , lần này thầy chọn sẵn nên đôi khi mất đi một xíu sự thú vị , cho sinh viên chọn luôn mới hay ho , sinh viên sẽ phải tìm hiểu nhiều hơn nữa , xem con chip nào phù hợp nhất .",
+    "aspects": [
+      {
+        "term": "không có gì không hài lòng",
+        "category": "General review",
+        "polarity": "positive",
+        "from": 0,
+        "to": 26
+      },
+      {
+        "term": "thầy có thể cho tự chọn",
+        "category": "Teaching quality",
+        "polarity": "neutral",
+        "from": 53,
+        "to": 76
+      }
+    ]
+  },
+  {
+    "text": "giúp giảng viên chủ động truyền đạt các kiến thức đã học một cách cụ thể cho sinh viên bởi thực tế hiện nay sinh viên thường làm các đồ án trong đó không thể hiện được rõ các kiến thức đã học trên lớp , nó thiên về sử dụng kỹ thuật nhiều hơn .",
+    "aspects": [
+      {
+        "term": "truyền đạt",
+        "category": "Teaching quality",
+        "polarity": "neutral",
+        "from": 25,
+        "to": 35
+      },
+      {
+        "term": "đồ án",
+        "category": "Test and evaluation",
+        "polarity": "negative",
+        "from": 133,
+        "to": 138
+      }
+    ]
+  },
+  {
+    "text": "không phải là tôi chưa từng rớt môn , nhưng tôi không phục và không cam tâm đối với trường hợp của 2 bạn kia có cùng source code , nếu thầy hỏi 2 bạn kia từng đoạn code giống như thầy đã hỏi tôi thì chắc gì 2 bạn đó trả lời được , vì code cũng đều lấy từ internet về và có phải 2 bạn đó code đâu .",
+    "aspects": [
+      {
+        "term": "nếu thầy hỏi 2 bạn kia từng đoạn code giống như thầy đã hỏi tôi",
+        "category": "Test and evaluation",
+        "polarity": "neutral",
+        "from": 131,
+        "to": 194
+      }
+    ]
+  },
+  {
+    "text": "em và các bạn thuộc các lớp phần mềm chất lượng cao hầu như không ai muốn đăng ký môn học game cơ bản do giảng viên này đảm nhận , nhưng kỳ vừa rồi nhà trường chỉ cung cấp cho chúng em duy nhất một sự lựa chọn là giảng viên này nên chúng em không còn cách nào khác .",
+    "aspects": [
+      {
+        "term": "đăng ký môn học game cơ bản do giảng viên này đảm nhận , nhưng kỳ vừa rồi nhà trường chỉ cung cấp cho chúng em duy nhất một sự lựa chọn là giảng viên này nên chúng em không còn cách nào khác",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 74,
+        "to": 264
+      }
+    ]
+  },
+  {
+    "text": "em không biết là do giảng viên hay do bộ môn phân bổ cách dạy như vậy nhưng em hi vọng chất lượng sẽ ngày được cải thiện , chúng em là sinh viên học để sau này đi làm chứ không phải học để qua môn , và tiếng anh lại rất cần thiết co ngành nghề của chúng em .",
+    "aspects": [
+      {
+        "term": "giảng viên",
+        "category": "Support from lecturers",
+        "polarity": "positive",
+        "from": 20,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "text": "phòng học cần mát mẻ và ít bụi hơn , các bộ mạch , bộ kit thí nghiệm trong phòng lab khoa wzjwz38 cần được bảo trì , sửa chữa thường xuyên , hầu như là không còn cái nào đảm bao chất lượng cả , có cái thì hỏng một ít có cái thì hỏng hết để đấy .",
+    "aspects": [
+      {
+        "term": "phòng học",
+        "category": "Learning environment",
+        "polarity": "positive",
+        "from": 0,
+        "to": 9
+      }
+    ]
+  },
+  {
+    "text": "cần đặt mục tiêu rõ ràng nhất từ môn học và môn học cần được học ở sinh viên năm nhất , vì lúc vào sinh viên còn rất ngỡ ngàng với các khoa và các môn học sẽ học vì thế nên học trước để tạo tâm lý , cũng như sinh viên phải biết mình cần làm gì , tạo nên sự chủ động trong học tập và làm việc .",
+    "aspects": [
+      {
+        "term": "mục tiêu rõ ràng nhất từ môn học và môn học cần được học ở sinh viên năm nhất",
+        "category": "Course information",
+        "polarity": "neutral",
+        "from": 8,
+        "to": 85
+      },
+      {
+        "term": "vì lúc vào sinh viên còn rất ngỡ ngàng với các khoa và các môn học sẽ học vì thế nên học trước để tạo tâm lý , cũng như sinh viên phải biết mình cần làm gì , tạo nên sự chủ động trong học tập và làm việc",
+        "category": "General review",
+        "polarity": "neutral",
+        "from": 88,
+        "to": 291
+      }
+    ]
+  },
+  {
+    "text": "cần phải cân bằng kiến thức giữa lý thuyết và thực hành , phần thực hành luôn đi trước lý thuyết , sinh viên không biết phải làm bài thực hành như thế nào , giảng viên thực hành không hướng dẫn cụ thể cho sinh viên làm bài , chỉ đưa lab rồi bắt sinh viên tự làm .",
+    "aspects": [
+      {
+        "term": "lý thuyết và thực hành",
+        "category": "Workload",
+        "polarity": "neutral",
+        "from": 33,
+        "to": 55
+      }
+    ]
+  },
+  {
+    "text": "thầy giảng dạy rất tệ , lên lớp chỉ ngồi chém gió là chính tuy nhiên luôn cho về muộn , hôm về sớm là 12h ( quy định là 11h30 nghỉ ) , hôm về muộn thì 12h , có một hôm 1h mới được về , đó là chưa kể chiều còn có học , không có thời gian để ăn cơm sửa soạn .",
+    "aspects": [
+      {
+        "term": "giảng dạy",
+        "category": "Teaching quality",
+        "polarity": "negative",
+        "from": 5,
+        "to": 14
+      },
+      {
+        "term": "cho về muộn",
+        "category": "Organization and management",
+        "polarity": "negative",
+        "from": 74,
+        "to": 85
+      }
+    ]
+  },
+  {
+    "text": "nên chia thành nhiều phần để đánh giá sinh viên chứ không tập trung vào cuối kỳ doubledot 50% giành cho kiến thức cơ bản, một hình thức nào đó để buộc sinh phải có kiến thức về dotnet nắm về nguyên lý của nó , về cách tổ chức , cách thiết kế và sử dụng .",
+    "aspects": [
+      {
+        "term": "đánh giá",
+        "category": "Test and evaluation",
+        "polarity": "neutral",
+        "from": 29,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "text": "là một môn học về kỹ năng , cu thể là kỹ năng mềm nên có nhiều hơn những bài học kết hợp các kỹ năng hỗ trợ khác khi học môn này như kỹ năng giao tiếp nguyên lý và kinh nghiệm thuyết trình , cách đọc tài liệu ngoại ngữ chuyên ngành , các tra cứu thông tin hiệu quả .",
+    "aspects": [
+      {
+        "term": "môn học",
+        "category": "Course information",
+        "polarity": "neutral",
+        "from": 7,
+        "to": 14
+      }
+    ]
+  },
+  {
+    "text": "hình thức báo cáo đồ án cuối kỳ , không thể hiện được khả năng của sinh viên , dễ xảy ra trường hợp một người làm , cả đám người hưởng , vì thầy không yêu cầu bảng phân công công việc và chỉ chấm điểm chung cho cả nhóm dựa trên bài báo cáo được nộp , mặc dù một nhóm thầy quy định là 5 người .",
+    "aspects": [
+      {
+        "term": "báo cáo đồ án cuối kỳ",
+        "category": "Test and evaluation",
+        "polarity": "negative",
+        "from": 10,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "text": "thầy cho bài kiểm tra tính cách , sau đó lập nhóm trong nhóm có đầy đủ nhóm tính cách , thầy còn khuyên , nhóm đừng nên quen biết nhau thầy đã sai lầm lúc đầu em và mọi người ắt hẳn phấn khích lắm nhưng sau này thầy để mỗi nhóm tìm ra con đường chính của cả nhóm !",
+    "aspects": [
+      {
+        "term": "cho bài",
+        "category": "Teaching quality",
+        "polarity": "neutral",
+        "from": 5,
+        "to": 12
+      }
+    ]
+  },
+  {
+    "text": "phòng thiết bị khoa wzjwz49 cần được chuyển sang phòng khác rộng hơn , thay vì là phòng nhỏ tí như cái kho , cần cho nhân viên vệ sinh thường xuyên , bụi đóng dày cả lớp , thiết bị ở phòng thực hành cần thường xuyên xem xét sửa chữa xem có đứt dây , lỏng hay hư hỏng gì không , vệ sinh bụi .",
+    "aspects": [
+      {
+        "term": "phòng thiết b",
+        "category": "Learning environment",
+        "polarity": "negative",
+        "from": 0,
+        "to": 13
+      }
+    ]
+  },
+  {
+    "text": "thứ nhất , môn mạch số quá \" hiếm \" tài liệu tham khảo ngay cả khi em tìm từ các nguồn trên internet , slide bài giảng thầy đưa ra không thể nào đáp ứng được khả năng tự nghiên cứu , tự học để rồi ứng dụng làm các bài tập mà thầy cho cuối cùng là làm các bài kiểm tra đánh giá .",
+    "aspects": [
+      {
+        "term": "slide",
+        "category": "Course information",
+        "polarity": "negative",
+        "from": 103,
+        "to": 108
+      }
+    ]
+  }
+]
