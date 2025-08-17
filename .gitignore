@@ -35,6 +35,7 @@ logs/
 *.pth
 *.pt
 *.onnx
+*.onnx.*
 *.h5
 *.ckpt
 *.pb
