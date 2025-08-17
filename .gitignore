@@ -1,0 +1,94 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.ipynb~
+
+# =========================
+# Dataset & Outputs
+# =========================
+data/
+datasets/
+outputs/
+results/
+runs/
+checkpoints/
+logs/
+*.log
+
+# =========================
+# Deep Learning Models
+# =========================
+*.pth
+*.pt
+*.onnx
+*.h5
+*.ckpt
+*.pb
+*.tflite
+*.joblib
+*.pkl
+
+# =========================
+# Images & Media
+# =========================
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# =========================
+# Compressed files
+# =========================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# =========================
+# Experiment Tracking
+# =========================
+wandb/
+mlruns/
+lightning_logs/
+tensorboard/
+tb_logs/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Environment
+# =========================
+.env
+.venv/
+venv/
+ENV/
+env/
