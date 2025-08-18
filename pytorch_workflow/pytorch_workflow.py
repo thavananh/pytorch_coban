@@ -83,8 +83,9 @@ def saving_model(model, sample_input=None, output_model_format_type="torch_defau
     if not isinstance(output_model_format_type, str) or output_model_format_type not in model_map:
         print('Your output model format type not valid, fall back to default torch native saving format')
         output_model_format_type = 'torch_default'
-    if model_map.get(output_model_format_type) is not None:
-        output_model_name = output_model_name + model_map.get(output_model_format_type)
+    ext = model_map.get(output_model_format_type)
+    if ext is not None:
+        output_model_name = output_model_name + ext
     else:
         print('Your format not valid, fall back to default torch native saving format')
         output_model_name = output_model_name + '.pth'
@@ -99,6 +100,16 @@ def saving_model(model, sample_input=None, output_model_format_type="torch_defau
         torch.jit.save(scripted_model, model_save_path)
     elif output_model_format_type == 'onnx':
         print(f'Your model is saving to {model_save_path} as a ONNX model')
+
+        if sample_input is None:
+            exported_args = (torch.rand(1, 1),)
+        elif sample_input is isinstance(sample_input, torch.Tensor):
+            exported_args = (sample_input,)
+        elif sample_input is isinstance(sample_input, (tuple, list)):
+            exported_args = tuple(sample_input,)
+        else:
+            exported_args = (torch.rand(1,1),)
+            
         # This export is legacy and it will be deprecated in torch 2.9. Right now, pytorch is only 2.8 but i will adapt it to the newer method
         # torch.onnx.export(
         #     model,
@@ -111,9 +122,10 @@ def saving_model(model, sample_input=None, output_model_format_type="torch_defau
         #     output_names=['output'],
         #     dynamic_shapes={"input": {0: "batch"}, "output": {0: "batch"}},
         # )
+            
         torch.onnx.export(
             model,
-            sample_input,
+            exported_args,
             model_save_path,
             opset_version=18,
             do_constant_folding=True,
@@ -122,6 +134,9 @@ def saving_model(model, sample_input=None, output_model_format_type="torch_defau
             dynamic_shapes={"x": {0: "batch"}},
             dynamo=True
         )
+    elif output_model_format_type == 'safetensors':
+        state_dict_cpu = {k: v.cpu() for k, v in model.state_dict().items()}
+        save_file(state_dict_cpu, model_save_path)
         
 
 def train_model(model, train_data, train_labels, test_data, test_labels, num_epochs):
@@ -187,7 +202,7 @@ def main():
     print("Model summary")
     summary(model_0, X_train.shape)
     train_model(model_0, X_train, y_train, X_test, y_test, 1000)
-    saving_model(model=model_0, output_model_format_type="onnx", sample_input=X_test, saving_model_folder="datetime")
+    saving_model(model=model_0, output_model_format_type="safetensors", sample_input=X_test, saving_model_folder="datetime")
 
 if __name__ == "__main__":
     main()
