@@ -36,6 +36,7 @@ logs/
 *.pt
 *.onnx
 *.onnx.*
+*.safetensors.*
 *.h5
 *.ckpt
 *.pb
