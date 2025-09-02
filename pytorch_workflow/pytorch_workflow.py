@@ -1,5 +1,4 @@
 from ast import List
-from turtle import forward
 from sympy import true
 import torch
 from torch import nn
@@ -122,7 +121,7 @@ def saving_model(model, sample_input=None, output_model_format_type="torch_defau
         #     output_names=['output'],
         #     dynamic_shapes={"input": {0: "batch"}, "output": {0: "batch"}},
         # )
-            
+        
         torch.onnx.export(
             model,
             exported_args,
